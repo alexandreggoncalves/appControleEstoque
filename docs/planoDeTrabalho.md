@@ -135,4 +135,8 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 
 -  3.2 Equipe de Projeto: Papéis e Responsabilidades dos integrantes
 
+| Papéis   |   Profissional             |  Responsabilidade |
+| -------------| ---------------|------------------ |
+| Product Owner (PO) |Prof. Dr. Andrey Rodrigues  | Responsável pelo desenvolvimento, traduz a voz do cliente em funcionalidades tangíveis. Defensor incansável, prioriza as necessidades, guiando a equipe à excelência do produto final.|
+       
    * **Alexandre Gomes Gonçalves**, tem a responsabilidade de gerenciar o projeto e o repositório GIT, verificar o andamento dos processos, desenvolvimento do perfil das "personas" que utilizarão o sistema, auxiliará no levantamento de requisitos.
