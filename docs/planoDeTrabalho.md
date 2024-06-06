@@ -138,5 +138,6 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 | Papéis   |   Profissional             |  Responsabilidade |
 | -------------| ---------------|------------------ |
 | Product Owner (PO) |Prof. Dr. Andrey Rodrigues  | Responsável pelo desenvolvimento, traduz a voz do cliente em funcionalidades tangíveis. Defensor incansável, prioriza as necessidades, guiando a equipe à excelência do produto final.|
+| Scrum Master (SM) |Prof. Dr. Andrey Rodrigues  |  Assume o papel crucial de líder e facilitador, guiando a equipe rumo ao sucesso do projeto. Ele garante a aplicação dos princípios e valores do Scrum, promovendo a colaboração, a auto-organização e a entrega de valor para o cliente.|
        
    * **Alexandre Gomes Gonçalves**, tem a responsabilidade de gerenciar o projeto e o repositório GIT, verificar o andamento dos processos, desenvolvimento do perfil das "personas" que utilizarão o sistema, auxiliará no levantamento de requisitos.
