@@ -75,7 +75,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 
   | Tipo       |                |   Detalhamento |
 | -------------| ---------------|------------------ |
-|Desenvolvimento | Software | sistema WEB, em nuvem e com design responsivo a acesso via celulares, tablets, notebooks e computadores.|
+|Desenvolvimento | Software | Sistema WEB, em nuvem e com design responsivo a acesso via celulares, tablets, notebooks e computadores.|
        
 ### 2. Informações Gerais
   - 2.1 Objetivo
