@@ -61,11 +61,15 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 |                 |       |
 
 
-     Sistema WEB com acesso HTTPS, desenvolvido em PHP para controle de estoque com movimentação de entrada e saída de materiais.
+     
     
-  - 1.3.3 Enquadrabilidade
-      Sistema de uso comercial, contemplando os atuais requisitos logísticos de controle de armazenamento e movimentação de materiais.
-    
+  - 1.3.3
+    | Enquadrabilidade        | Detalhamento                 |
+| ----------------------- | ---------------------------------- |
+| Sistema de uso comercial | Contempla os atuais requisitos logísticos de controle de armazenamento e movimentação de materiais.                        |
+|                 |       |
+
+
   - 1.3.4 Tipo
       Desenvolvimento de sistema WEB, em nuvem e com design responsivo a acesso via celulares, tablets, notebooks e computadores.
 
