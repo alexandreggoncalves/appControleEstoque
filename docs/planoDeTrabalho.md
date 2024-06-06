@@ -64,6 +64,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
      
     
   - 1.3.3
+    
     | Enquadrabilidade        | Detalhamento                 |
 | ----------------------- | ---------------------------------- |
 | Sistema de uso comercial | Contempla os atuais requisitos logísticos de controle de armazenamento e movimentação de materiais.                        |
