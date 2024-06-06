@@ -72,10 +72,11 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 
 
   - 1.3.4 Tipo
-      Desenvolvimento de sistema WEB, em nuvem e com design responsivo a acesso via celulares, tablets, notebooks e computadores.
 
-    
-     
+  | Tipo       |                |   Detalhamento |
+| ----------------------- | ---------------------------------- |
+|Desenvolvimento | Software | sistema WEB, em nuvem e com design responsivo a acesso via celulares, tablets, notebooks e computadores.|
+       
 ### 2. Informações Gerais
   - 2.1 Objetivo
 
