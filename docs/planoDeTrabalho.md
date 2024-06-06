@@ -32,7 +32,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 
   - 1.3 Caracterização do Projeto
     
-    O novo sistema deverá deverá ser desenvoldo em plataforma Web, em protocolo HTTPS e será concebido com a finalidade de controlar as áreas de planejamento, estocagem e distribuição de materiais. Todas as requisições serão em tempo real, possibilitando a integração entre os setores. O sistema ainda deverá ter:
+    O novo sistema deverá deverá ser desenvolvido em plataforma Web, em protocolo HTTPS e será concebido com a finalidade de controlar as áreas de planejamento, estocagem e distribuição de materiais. Todas as requisições serão em tempo real, possibilitando a integração entre os setores. O sistema ainda deverá ter:
     * login baseado em usuário e senha;
     * cadastro de usuários;
     * cadastro perfis de uso;
@@ -55,7 +55,13 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 
   - 1.3.2 Classe
 
-      Sistema WEB com acesso HTTPS, desenvolvido em PHP para controle de estoque com movimentação de entrada e saída de materiais.
+  | Classe        | Detalhamento                 |
+| ----------------------- | ---------------------------------- |
+| Sistema Web             |  com acesso HTTPS, desenvolvido em PHP para controle de estoque com movimentação de entrada e saída de materiais.                        |
+|                 |       |
+
+
+     Sistema WEB com acesso HTTPS, desenvolvido em PHP para controle de estoque com movimentação de entrada e saída de materiais.
     
   - 1.3.3 Enquadrabilidade
       Sistema de uso comercial, contemplando os atuais requisitos logísticos de controle de armazenamento e movimentação de materiais.
