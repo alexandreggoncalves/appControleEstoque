@@ -63,7 +63,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 
      
     
-  - 1.3.3
+  - 1.3.3 Enquadrabilidade
     
    | Enquadrabilidade        | Detalhamento                 |
 | ----------------------- | ---------------------------------- |
