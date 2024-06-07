@@ -57,8 +57,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 
   | Classe        | Detalhamento                 |
 | ----------------------- | ---------------------------------- |
-| Sistema Web             |  com acesso HTTPS, desenvolvido em PHP para controle de estoque com movimentação de entrada e saída de materiais.                        |
-|                 |       |
+| Sistema Web    |  Com acesso HTTPS, desenvolvido em PHP para controle de estoque com movimentação de entrada e saída de materiais.|              
 
 
      
