@@ -140,7 +140,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 | Scrum Master (SM) |Prof. Dr. Andrey Rodrigues  |  Assume o papel crucial de líder e facilitador, guiando a equipe rumo ao sucesso do projeto. Ele garante a aplicação dos princípios e valores do Scrum, promovendo a colaboração, a auto-organização e a entrega de valor para o cliente.|
 |Time Squad| Alexandre Gomes Gonçalves, Ester Castro, Erickson Amaral, Luciele I. Menezes, Silvía Letícia  |Atuam no desenvolvimento de software |
 | Gerente de Projeto | Alexandre Gomes Gonçalves  |  Gerenciar o projeto e o repositório GIT, verificar o andamento dos processos, desenvolvimento do perfil das "personas" que utilizarão o sistema, auxiliará no levantamento de requisitos.|
-| Suporte Técnico | Luciele I. Menezes  |  Atua como a linha de frente na resolução de problemas e dúvidas relacionadas a produtos, serviços ou sistemas. É o elo crucial entre a empresa e seus clientes, garantindo que estes recebam a assistência necessária para utilizar as soluções de forma eficaz e satisfatória.|
+| Suporte Técnico | Luciele I. Menezes  |  Atua como a linha de frente na resolução de problemas e dúvidas relacionadas a produtos, serviços ou sistemas. Suporte na construção do  Plano de Trabalho e auxiliar no levantamento dos requesitos|
 | Desenvolvedor de FRONTEND/BACKEND | Ester Castro de Oliveira |  Encarregado pela criação e implementação da interface de um site ou aplicativo, com foco na experiência do usuário. É responsável também por planejar, programar, testar e manter a estrutura de códigos que faz a interface entre um site, o servidor e o banco de dados. | 
 
        
