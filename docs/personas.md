@@ -127,3 +127,35 @@ Descrição das personas que irão utilizar o sistema, baseada na técnica PATHY
   * A integração entre estoque e vendas não funiona adequadamente, pois as informações de entrada e saída não estão em tempo real;
   * O sistema não tem acesso via HTTPS, somente via aplicação própria. Hoje existe tecnologia para integrar o sistema e ter acesso HTTPS;
   * Integração entre estoque e setor de compras poderia ser fácilmente resolvida com a integração entre os sistemas.
+
+
+## Persona 05 - Operador de Vendas
+<img src="https://media.istockphoto.com/id/1353444509/pt/foto/young-latin-man-working-in-hardware-store.jpg?s=612x612&w=0&k=20&c=5nXjNETk8eUo2aiZLYxbyArDZspe8jEdSfZ6OCfda-I=" alt="Operador de Movimentação" width="200"/>
+
+### José Roberto Tavares Bueno - 26 anos
+
+### QUEM
+ * José é estudante de Sistemas de Informação na UFAM. É responsável pelo atendimento ao cliente no balcão vendendo peças automotivas aos clientes físicos e online. Persuativo, carismático e argumentador, tem perfil de liderança e é uma pessoa muito coerente que tem uma preocupação com a satisfação do cliente. Sempre atento, domina o mercado de peças automotivas e desempenha um papel fundamental no setor de vendas.
+
+### CONTEXTO
+  * Trabalha no setor automotivo desde sua adolescência, conhecedor de automóveis, é um diferencial em sua carreira profissional. Gosta de tecnologia, por este motivo cursa Sistemas de Informação. Nesse contexto, já tem conhecimento suficiente de sistemas e o que eles devem entregar aos usuários, por esse motivo, participa ativamente dos processos evolutivos na empresa relacionado a sistemas.
+
+### EXPERIÊNCIAS PRÉVIAS/PREFERÊNCIAS
+  * Por ter muita experiência no setor, gosta de organização e limpeza, o que é fundamental neste setor;
+  * Estudante de Sistemas de Informação, aponta e sugere sempre que possível melhorias no sistema;
+  * Prefere sistemas limpos, sem muito design, porém ágeis, funcionáis e objetivos;
+  * Não gosta de planilhas, apesar que entende que em certos casos são necessárias;
+  * Sabe da importância de na hora da venda, saber exatamente o que o estoque possui e onde encontrar determinada mercadoria, pois também ganha comissão sobre vendas.
+  * Apesar de conhecer sistemas, também conhece processos, os quais sempre procura aperfeiçoar e corrigir eventuais problemas.
+
+### PROBLEMAS / NECESSIDADES / DESEJOS
+  * O sistema atual SESTOQUE, não mostra em tempo real o seu estoque e em determinadas ocasiões isso causa desgaste de comunicação entre o setor de venda e estoque;
+  * O sistema Wi-Fi da empresa está com problemas, causando perda de sinal e demora na conclusão de tarefas;
+  * Necessita que os setores trabalhem mais integrados com informações limpas e em tempo real;
+  * Acontece casos de venda dupla, quando é a última peça do estoque, seria interessante um sistema de reservas temporárias, para não ocorrer tal fato.
+ 
+### Soluções Existentes
+  * O sistema atual é defasado, e tem algum "BUGS" já conhecidos pela gestão da empresa;
+  * A integração entre estoque e vendas não funiona adequadamente, pois as informações de entrada e saída não estão em tempo real;
+  * O sistema não tem acesso via HTTPS, somente via aplicação própria. Hoje existe tecnologia para integrar o sistema e ter acesso HTTPS;
+  * Integração entre estoque e setor de compras poderia ser fácilmente resolvida com a integração entre os sistemas.
