@@ -139,7 +139,9 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 | -------------| ---------------|------------------ |
 | Product Owner (PO) |Prof. Dr. Andrey Rodrigues  | Responsável pelo desenvolvimento, traduz a voz do cliente em funcionalidades tangíveis. Defensor incansável, prioriza as necessidades, guiando a equipe à excelência do produto final.|
 | Scrum Master (SM) |Prof. Dr. Andrey Rodrigues  |  Assume o papel crucial de líder e facilitador, guiando a equipe rumo ao sucesso do projeto. Ele garante a aplicação dos princípios e valores do Scrum, promovendo a colaboração, a auto-organização e a entrega de valor para o cliente.|
+|Time Squad| Alexandre Gomes Gonçalves, Ester Castro, Erickson Amaral, Luciele I. Menezes, Silvía Letícia  |Atuam no desenvolvimento de software |
 | Gerente de Projeto | Alexandre Gomes Gonçalves  |  Gerenciar o projeto e o repositório GIT, verificar o andamento dos processos, desenvolvimento do perfil das "personas" que utilizarão o sistema, auxiliará no levantamento de requisitos.|
 | Suporte Técnico | Luciele I. Menezes  |  Atua como a linha de frente na resolução de problemas e dúvidas relacionadas a produtos, serviços ou sistemas. É o elo crucial entre a empresa e seus clientes, garantindo que estes recebam a assistência necessária para utilizar as soluções de forma eficaz e satisfatória.|
+
        
    
