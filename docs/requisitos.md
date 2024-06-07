@@ -1,4 +1,4 @@
-# Requisitor do sistema de Estoque
+# Requisitos do Sistema Meu Estoque Fácil
 
 ## Perfis de usuário:
   * Gerente:
