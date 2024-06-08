@@ -146,5 +146,14 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 | Suporte Técnico | Luciele I. Menezes  |  Atua como a linha de frente na resolução de problemas e dúvidas relacionadas a produtos, serviços ou sistemas. Suporte na construção do  Plano de Trabalho e no levantamento dos requisitos e criação de user story|
 | Desenvolvedor de FRONTEND/BACKEND | Ester Castro de Oliveira |  Encarregado pela criação e implementação da interface de um site ou aplicativo, com foco na experiência do usuário. É responsável também por planejar, programar, testar e manter a estrutura de códigos que faz a interface entre um site, o servidor e o banco de dados. | 
 
+- 3.3 Fases, Atividades e Cronograma
+
+Fase I: Especificação – Maio/Junho:
+- Plano de Trabalho
+- Definição de Personas
+- Requisito do Sistema
+- Criação de User Story
+  
+
        
    
