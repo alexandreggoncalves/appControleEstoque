@@ -33,18 +33,18 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
   - 1.3 Caracterização do Projeto
     
     O novo sistema deverá ser desenvolvido em plataforma Web, em protocolo HTTPS e será concebido com a finalidade de controlar as áreas de planejamento, estocagem e distribuição de materiais. Todas as requisições serão em tempo real, possibilitando a integração entre os setores. O sistema ainda deverá ter:
-    * login baseado em usuário e senha;
-    * cadastro de usuários;
-    * cadastro perfis de uso;
-    * cadastro de fornecedores;
-    * cadastro de produtos;
-    * cadastro de categorias;
-    * controle de entrada de materiais;
-    * controle de saída de materiais;s;
-    * emissão de etiquetas de identificação;
-    * relatórios gerencias;
-    * controle de iventário/patrimônio;
-    * controle de WMS (Warehouse Management System)
+    * Login baseado em usuário e senha;
+    * Cadastro de usuários;
+    * Cadastro perfis de uso;
+    * Cadastro de fornecedores;
+    * Cadastro de produtos;
+    * Cadastro de categorias;
+    * Controle de entrada de materiais;
+    * Controle de saída de materiais;s;
+    * Emissão de etiquetas de identificação;
+    * Relatórios gerencias;
+    * Controle de iventário/patrimônio;
+    * Controle de WMS (Warehouse Management System)
 
 
  - 1.3.1 Integração com outros sistemas
@@ -126,9 +126,10 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 ### 3. Metodologia do Projeto
 
 -  3.1 Estrutura do projeto
-    - **Gerente de Projeto**
+
     - **Product Owner (PO)**
     - **Scrum Master (SM)**
+    - **Gerente de Projeto**
     - **Equipe de Levantamento de Requisitos**
     - **Equipe de Desenvolvimento FRONTEND/BACKEND**
     - **Equipe de Implantação e Testes**
@@ -140,7 +141,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 | -------------| ---------------|------------------ |
 | Product Owner (PO) |Prof. Dr. Andrey Rodrigues  | Responsável pelo desenvolvimento, traduz a voz do cliente em funcionalidades tangíveis. Defensor incansável, prioriza as necessidades, guiando a equipe à excelência do produto final.|
 | Scrum Master (SM) |Prof. Dr. Andrey Rodrigues  |  Assume o papel crucial de líder e facilitador, guiando a equipe rumo ao sucesso do projeto. Ele garante a aplicação dos princípios e valores do Scrum, promovendo a colaboração, a auto-organização e a entrega de valor para o cliente.|
-|Time Squad| Alexandre Gomes Gonçalves, Ester Castro, Erickson Amaral, Luciele I. Menezes, Silvía Letícia  |Atuam no desenvolvimento de software |
+|Time Squad| Alexandre Gomes Gonçalves, Ester Castro, Erickson Amaral, Luciele I. Menezes, Silvía Letícia  |Atuam na projeção, desenvolvimento, testes e na implementação das funcionalidades do sistema.|
 | Gerente de Projeto | Alexandre Gomes Gonçalves  |  Gerenciar o projeto e o repositório GIT, verificar o andamento dos processos, desenvolvimento do perfil das "personas" que utilizarão o sistema, auxiliará no levantamento de requisitos.|
 | Suporte Técnico | Luciele I. Menezes  |  Atua como a linha de frente na resolução de problemas e dúvidas relacionadas a produtos, serviços ou sistemas. Suporte na construção do  Plano de Trabalho e no levantamento dos requisitos e criação de user story|
 | Desenvolvedor de FRONTEND/BACKEND | Ester Castro de Oliveira |  Encarregado pela criação e implementação da interface de um site ou aplicativo, com foco na experiência do usuário. É responsável também por planejar, programar, testar e manter a estrutura de códigos que faz a interface entre um site, o servidor e o banco de dados. | 
