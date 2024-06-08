@@ -11,7 +11,8 @@
   * Operador de Reposição: 
       * Inserir, editar ou excluir produtos do sistema
       * Inserir requisição de compra ao setor de compras
-      * Repor produtos no setor de vendas físico da loja
+      * Gerar relatórios de estoque
+     
 
   * Operador de Movimentação:
       * Inserir, editar, excluir “endereço” dos locais de armazenamento físico no sistema WMS (Warehouse Management System)
