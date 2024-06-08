@@ -151,7 +151,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 Fase I: Especificação – Maio/Junho:
 - Plano de Trabalho
 - Definição de Personas
-- Requisito do Sistema
+- Requisitos do Sistemas
 - Criação de User Story
   
 
