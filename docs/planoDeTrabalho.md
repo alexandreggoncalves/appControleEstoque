@@ -21,7 +21,7 @@
 ### 1. Introdução
   - 1.1 Objeto
     
-     Este documento detalha a construção do sistema Meu Estoque Fácil, destacando as seções essenciais que servirão de alicerce para a definição dos requisitos e o desenvolvimento do sistema, tais como objetivo do sistema, visäo geral, requesitos e outros.   
+     Este documento detalha a construção do sistema Meu Estoque Fácil, destacando as seções essenciais que servirão de alicerce para a definição dos requisitos e o desenvolvimento do sistema, tais como objetivo do sistema, visäo geral, requisitos e outros.   
 
   
   - 1.2 Motivação, Justificativa e Oportunidade
