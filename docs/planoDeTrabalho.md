@@ -1,4 +1,4 @@
-# APP - Controlde de Estoque - Plano de trabalho
+#  Sistema de Controle de Estoque - Meu Estoque Fácil - Plano de trabalho
 
 | Nome do Projeto:        | Meu Estoque Fácil                  |
 | ----------------------- | ---------------------------------- |
