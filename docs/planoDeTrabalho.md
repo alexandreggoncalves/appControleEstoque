@@ -13,8 +13,6 @@
 | 1.0   | Planejamento e pesquisa | Alexandre G. Gonçalves | 28/05/2024 |
 | 1.1   | Planejamento do objeto, motivação, justificativa e oportunidade. Objetivo | Luciele I. Menezes| 02/06/2024|
 | 1.2    |  Ajustes dos tópicos classes, equadrabilidade, tipo e equipe de projeto  | Luciele I. Menezes| 06/06/2024|
-|       |                        |                        |            |
-|       |                         |                        |            |
 
 <p align="center"><b>Índice</b></p>
 
@@ -40,7 +38,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
     * Cadastro de produtos;
     * Cadastro de categorias;
     * Controle de entrada de materiais;
-    * Controle de saída de materiais;s;
+    * Controle de saída de materiais;
     * Emissão de etiquetas de identificação;
     * Relatórios gerencias;
     * Controle de iventário/patrimônio;
@@ -121,7 +119,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
   - 2.5 Resultados Esperados
       * espera-se um maior controle e automatização do estoque;
       * simplificação de processos e confiabilidade nos dados;
-      * relatórios gerenciais acertivos com clareza de informações.
+      * relatórios gerenciais assertivos com clareza de informações.
 
 ### 3. Metodologia do Projeto
 
@@ -144,16 +142,34 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 |Time Squad| Alexandre Gomes Gonçalves, Ester Castro, Erickson Amaral, Luciele I. Menezes, Silvía Letícia  |Atuam na projeção, desenvolvimento, testes e na implementação das funcionalidades do sistema.|
 | Gerente de Projeto | Alexandre Gomes Gonçalves  |  Gerenciar o projeto e o repositório GIT, verificar o andamento dos processos, desenvolvimento do perfil das "personas" que utilizarão o sistema, auxiliará no levantamento de requisitos.|
 | Suporte Técnico | Luciele I. Menezes  |  Atua como a linha de frente na resolução de problemas e dúvidas relacionadas a produtos, serviços ou sistemas. Suporte na construção do  Plano de Trabalho e no levantamento dos requisitos e criação de user story|
-| Desenvolvedor de FRONTEND/BACKEND | Ester Castro de Oliveira |  Encarregado pela criação e implementação da interface de um site ou aplicativo, com foco na experiência do usuário. É responsável também por planejar, programar, testar e manter a estrutura de códigos que faz a interface entre um site, o servidor e o banco de dados. | 
+| Desenvolvedores de FRONTEND/BACKEND | Ester Castro de Oliveira |  Encarregada pela criação e implementação da interface de um site ou aplicativo, com foco na experiência do usuário. É responsável também por planejar, programar, testar e manter a estrutura de códigos que faz a interface entre um site, o servidor e o banco de dados. | 
+| Implantação e Testes |
+| Suporte Técnico |
 
 - 3.3 Fases, Atividades e Cronograma
 
-Fase I: Especificação – Maio/Junho:
-- Plano de Trabalho
-- Definição de Personas
-- Requisitos do Sistemas
-- Criação de User Story
-  
+    Fase I: Especificação – Maio/Junho:
+    Fase II: Inspeção - Julho/Agosto 
+    Fase III: Projeto e Arquitetura - Setembro/Outubro
+    Fase IV: Prototipagem e Refinamento - Novembro
+    Fase V: Encerramento - Dezembro
 
-       
-   
+  - 3.4 Entregas de cada fase
+
+    | Fase | Mês | Entregável |
+    | --- | --- | --- |
+    | I - Especificação | Junho | - Plano de Trabalho<br> - Definição de Personas<br> - Criação de User Story<br> - Especificação dos requisitos do Sistema |
+    | II - Inspeção | | |
+    | III - Prototipagem e Refinamento | | |
+    | IV - Encerramento | | |
+
+- 3.5 Controle de Mudanças
+
+O monitoramento e controle do escopo do projeto serão realizados a partir das seguintes diretrizes:
+
+  - Requisitos do projeto devem ser compreendidos por todos os membros da equipe.
+  - Todas as questões técnicas, de entregas e do cronograma que a equipe do projeto possui devem ser respondidas.
+  - Todas as entregas devem ser acordadas pela equipe do projeto e entidades parceiras.
+  - Todas as informações devem estar atualizadas no escopo e não-escopo.
+  - Nenhum trabalho fora do escopo do projeto deve ser feito.
+  - Solicitações de mudança no escopo do projeto devem ser efetivamentecomunicadas e compreendidas.
