@@ -2,11 +2,11 @@
 
 ## Perfis de usuário:
   * Gerente:
-      * inserir, editar e excluir perfis de usuário
-      * inserir, editar e excluir usuários
-      * emitir relatórios gerenciais
-      * supervisionar a movimentação de entrada e saída de materiais
-      * validar o fechamento anual
+      * Inserir, editar e excluir perfis de usuário
+      * Inserir, editar e excluir usuários
+      * Emitir relatórios gerenciais
+      * Supervisionar a movimentação de entrada e saída de materiais
+      * Validar o fechamento anual
 
   * Operador de Reposição: 
       * Inserir, editar ou excluir produtos do sistema
