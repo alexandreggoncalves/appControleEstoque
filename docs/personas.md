@@ -39,7 +39,7 @@ Descrição das personas que irão utilizar o sistema, baseada na técnica PATHY
 ## Persona 02 - Operador de Reposição
 <img src="https://img.freepik.com/fotos-gratis/jovem-trabalhando-em-um-armazem_23-2149128346.jpg" alt="Operador de Reposição" width="200"/>
 
-### Carnos Neves Bittencourt - 25 anos
+### Carlos Neves Bittencourt - 25 anos
 
 ### QUEM
  * Carlos, é formado Técnico em Logístia. Recém formado, está em um momento de ascensão profissional, disposto, colaborativo e sempre buscando desenvover da melhor forma as suas atividades. Antenado tecnologicamente, usa e abusa dos sistemas disponíveis. Sempre que possível sugere melhorias e correções nos sistemas utilizados no setor de estoque.
