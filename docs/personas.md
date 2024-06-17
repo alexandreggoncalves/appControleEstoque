@@ -51,7 +51,7 @@ Descrição das personas que irão utilizar o sistema, baseada na técnica PATHY
   * Ama tecnologia e inovações;
   * Não tem um bom gerenciamento de feedback;
   * Trabalhou em seu estagio como repositor em uma grande rede de supermerdado;
-  * Tem um bom relacionamento com as pessoas, apesar de ter um perfil fote;
+  * Tem um bom relacionamento com as pessoas, apesar de ter um perfil forte;
   * Não tem filhos, e é solteiro;
   * Por ser jovem, necessita de cursos mais específicos de capacitação na área.
 
@@ -143,7 +143,7 @@ Descrição das personas que irão utilizar o sistema, baseada na técnica PATHY
 ### EXPERIÊNCIAS PRÉVIAS/PREFERÊNCIAS
   * Por ter muita experiência no setor, gosta de organização e limpeza, o que é fundamental neste setor;
   * Estudante de Sistemas de Informação, aponta e sugere sempre que possível melhorias no sistema;
-  * Prefere sistemas limpos, sem muito design, porém ágeis, funcionáis e objetivos;
+  * Prefere sistemas limpos, sem muito design, porém ágeis, funcionais e objetivos;
   * Não gosta de planilhas, apesar que entende que em certos casos são necessárias;
   * Sabe da importância de na hora da venda, saber exatamente o que o estoque possui e onde encontrar determinada mercadoria, pois também ganha comissão sobre vendas.
   * Apesar de conhecer sistemas, também conhece processos, os quais sempre procura aperfeiçoar e corrigir eventuais problemas.
