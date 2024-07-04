@@ -16,3 +16,10 @@
   - defeito 14, naõ atendido, pois a tela de edição serve para alterar o nome do perfil ou selecionar as áreas do sistema que o perfil permite acesso, não serve para adicionar ou remover areas, estas já estarão previamente cadastradas e serão listadas somente.
   - defeito 17, não atendido, uma vez que a regra de negócio já especifica as restrições referente ao campo "Nome do Perfil" e não há porque ter restrições adicionais.
   - defeitos 11, 15 e 16 foram corrigidos.
+
+### História H4
+  - 20 e 23 sao falsos positivos.
+  - defeito 18, 19, 21 e 22 foram corrigidos.
+
+### História H5
+  - 
