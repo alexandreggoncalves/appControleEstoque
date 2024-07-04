@@ -22,4 +22,6 @@
   - defeito 18, 19, 21 e 22 foram corrigidos.
 
 ### História H5
-  - 
+  - defeito 24, não atendido, pois uma vez feito o Login, os menus e acesso disponíveis seguirão a configuração determinada pelas áreas selecionadas no perfil do usuário, automáticamente não sendo necessária uma nova verificação.
+  - defeito 25, 26, 27, 28, 29, 30 e 31 foram corrigidos.
+  - defeito 32, não atendido, pois os critérios de aceitação mencionam os filtros e suas funcionalidades estão listadas nas regras de negócio.
