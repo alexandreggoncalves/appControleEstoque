@@ -31,3 +31,5 @@
   - defeito 41, não atendido, pois sim, o operador de fechamento é responsável por iniciar o balanço, e o Gerente acompanha via sistema através deste relatório a contabilização até o fechamento (balanço completo).
 
 ### História H7
+  - defeito 42, 43, 44, 45, 47, 48 e 49 foram atendidos.
+  - defeito 46, não atendido, pois a aprovação do balanço é feita uma única vez por cada persona responsável.
