@@ -13,7 +13,7 @@
 ### História H3
   - defeito 12, não atendido, foi imposta uma nova política pelo inspetor que não faz sentido para a política da empresa.
   - falso positivo 13, apesar de ser falso positivo, entendemos que as regras referente ao campo devem estar em regras de negócio enão em critérios de aceitação.
-  - defeito 14, naõ atendido, pois a tela de edição serve para alterar o nome do perfil ou selecionar as áreas do sistema que o perfil permite acesso, não serve para adicionar ou remover areas, estas já estarão previamente cadastradas e serão listadas somente.
+  - defeito 14, não atendido, pois a tela de edição serve para alterar o nome do perfil ou selecionar as áreas do sistema que o perfil permite acesso, não serve para adicionar ou remover areas, estas já estarão previamente cadastradas e serão listadas somente.
   - defeito 17, não atendido, uma vez que a regra de negócio já especifica as restrições referente ao campo "Nome do Perfil" e não há porque ter restrições adicionais.
   - defeitos 11, 15 e 16 foram corrigidos.
 
