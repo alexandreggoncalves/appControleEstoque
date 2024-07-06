@@ -33,3 +33,16 @@
 ### História H7
   - defeito 42, 43, 44, 45, 47, 48 e 49 foram atendidos.
   - defeito 46, não atendido, pois a aprovação do balanço é feita uma única vez por cada persona responsável.
+
+### História H8
+- defeito 50, 51, 52 e 53 foram corrigidos.
+- defeito 54 não foram atendidos pois não tem relação com a história do usuário, critério de aceitação e regas do negócio.
+
+ ### História H12
+ - defeitos 83, 84, 85, 66 e 86 foram corrigidos.
+ - defeitos 87 e 88  não foram atendidos pois não tem relação com a história do usuário, critério de aceitação e regas do negócio.
+ - defeito 89 não foi corrigido pois as melhorias serão baseadas nod feedbacks.
+
+### História H13
+- defeitos 90, 91, 94 e 96 foram corrigidos.
+- defeitos 93 e 96 não foram atendidos pois não tem relação com a história do usuário, critério de aceitação e regas do negócio.
