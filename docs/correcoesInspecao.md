@@ -41,7 +41,7 @@
  ### História H12
  - defeitos 83, 84, 85, 66 e 86 foram corrigidos.
  - defeitos 87 e 88  não foram atendidos pois não tem relação com a história do usuário, critério de aceitação e regas do negócio.
- - defeito 89 não foi corrigido pois as melhorias serão baseadas nod feedbacks.
+ - defeito 89 não foi corrigido pois as melhorias serão baseadas nos feedbacks.
 
 ### História H13
 - defeitos 90, 91, 94 e 96 foram corrigidos.
