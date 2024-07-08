@@ -40,10 +40,10 @@
 
 ### História H9
 - foi realizado as correções em 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66 e 67
-- defeito 56 não atendido devido não encontrar o que o inspetor afirmou.
+- defeito 56 não atendido devido não encontrar o que o inspetor afirmou que tinha para correção.
 
 ### História H10
-
+- foi realizado as correções em 68, 69, 70, 71, 
 ### História H11
 
  ### História H12
