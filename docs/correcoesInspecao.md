@@ -38,6 +38,12 @@
 - defeito 50, 51, 52 e 53 foram corrigidos.
 - defeito 54 não foram atendidos pois não tem relação com a história do usuário, critério de aceitação e regas do negócio.
 
+### História H9
+
+### História H10
+
+### História H11
+
  ### História H12
  - defeitos 83, 84, 85, 66 e 86 foram corrigidos.
  - defeitos 87 e 88  não foram atendidos pois não tem relação com a história do usuário, critério de aceitação e regas do negócio.
