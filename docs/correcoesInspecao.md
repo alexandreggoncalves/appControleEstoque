@@ -46,11 +46,24 @@
 - foi realizado as correções em 68, 69, 70, 71, 
 ### História H11
 
- ### História H12
- - defeitos 83, 84, 85, 66 e 86 foram corrigidos.
- - defeitos 87 e 88  não foram atendidos pois não tem relação com a história do usuário, critério de aceitação e regas do negócio.
- - defeito 89 não foi corrigido pois as melhorias serão baseadas nos feedbacks.
+### História H12
+- defeitos 83, 84, 85, 66 e 86 foram corrigidos.
+- defeitos 87 e 88  não foram atendidos pois não tem relação com a história do usuário, critério de aceitação e regas do negócio.
+- defeito 89 não foi corrigido pois as melhorias serão baseadas nos feedbacks.
 
 ### História H13
 - defeitos 90, 91, 94 e 96 foram corrigidos.
 - defeitos 93 e 96 não foram atendidos pois não tem relação com a história do usuário, critério de aceitação e regas do negócio.
+
+### História H14
+- defeitos 97, 98, 99, 100 e 101 foram corrigidos.
+- defeitos 102 e 103 foram desconsiderados pois não se configuram aos tipos de defeitos citados.
+
+### História H15
+- defeitos 104, 105, 106, 107 e 109 foram corrigidos.
+- defeito 108 foi desconsiderado pois não se aplica a esta história de usuário.
+
+### História H16
+- defeitos 110, 111, 112, 113, 115 e 116 foram corrigidos.
+- defeito 114 foi desconsiderado pois não cita nada sobre código de barras nesta história de usuário.
+ 
