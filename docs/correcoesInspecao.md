@@ -66,4 +66,14 @@
 ### História H16
 - defeitos 110, 111, 112, 113, 115 e 116 foram corrigidos.
 - defeito 114 foi desconsiderado pois não cita nada sobre código de barras nesta história de usuário.
+
+### História H17
+- defeitos 117, 118, 119, 120 e 121 foram corrigos.
+- defeito 122 foi desconsiderado pois a observação está incompleta.
+
+### História H18
+- defeitos 123, 124 e 125 foram corrigidos.
+
+### História H19
+- defeitos 123, 124, 125, 126, 127, 128, 129, 130 e 131 foram corrigidos.
  
