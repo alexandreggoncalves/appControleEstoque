@@ -52,7 +52,7 @@
 - defeito 89 não foi corrigido pois as melhorias serão baseadas nos feedbacks.
 
 ### História H13
-- defeitos 90, 91, 94 e 96 foram corrigidos.
+- defeitos 90, 91, 92, 94 e 96 foram corrigidos.
 - defeitos 93 e 96 não foram atendidos pois não tem relação com a história do usuário, critério de aceitação e regas do negócio.
 
 ### História H14
