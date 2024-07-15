@@ -8,7 +8,7 @@
  - Verificar acesso
  - Verificar certificado HTTPS
 
-| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
 | --- | --- | --- | --- | --- |
 | Acesso | IP/MAC | verificaCertificado | | |
 | | | verificaAcesso | | |
@@ -19,12 +19,15 @@
  - Senha
  - Esqueci minha Senha
  - Troca de senha
- - Senhas antigas
-
-| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância
+ - Verificar troca de senha a cada 30 dias
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
 | --- | --- | --- | --- | --- |
-| Acesso | IP/MAC | Login | | |
-| | | verificaAcesso | | |
+| Login | usuario | login                | | |
+|       | senha   | logout               | | |
+|       |         | verificaLogin        | | |
+|       |         | esqueciMinhaSenha    | | |
+|       |         | verificaTrocaDeSenha | | |
+|       |         | trocaDeSenha         | | |
 
 ### H3
  - Perfis de Usuário
@@ -33,6 +36,20 @@
  - Nome do Perfil
  - Áreas
  - Areas principais e sub áreas
+
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
+| --- | --- | --- | --- | --- |
+| Perfil | idPerfil  | incluir              | | |
+|        | nome      | editar               | | |
+|        | areas     | excluir              | | |
+|        |           | niveisDeAcesso       | | |
+|        |           | setAareasAcesso      | | |
+|        |           | trocaDeSenha         | | |
+| Area   | idArea    | setAreaPai           | | |
+|        | nomeArea  | incluir              | | |
+|        | idAreaPai | editar               | | |
+|        | nivelArea | excluir              | | |
+
 
  #### H4
  - Usuários
@@ -48,6 +65,15 @@
  - Senha padrão
  - Critérios para senha
 
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
+| --- | --- | --- | --- | --- |
+| Usuario | usuario    | incluir              | Usuarios | email |
+|         | senha      | editar               |          | |
+|         | cpf        | excluir              |          | |
+|         | nascimento | resetSenha           |          | |
+|         | idPerfil   | setSenhaPadrao       |          | |
+|         | email      | validaCriteriosSenha |          | |
+
 #### H5
  - Relatório de Entradas e Saídas
  - Filtros
@@ -59,6 +85,17 @@
  - Permitir impressão
  - Exportar relatório
  - Busca relatório
+
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
+| --- | --- | --- | --- | --- |
+| RelatorioEntradaSaida | dataInicio   | buscar   | | |
+|                       | dataFim      | imprimir | | |
+|                       | mes          | exportar | | |
+|                       | ano          |          | | |
+|                       | tipoMaterial |          | | |
+|                       | entrada      |          | | |
+|                       | saida        |          | | |
+|                       | formato      |          | | |
 
 #### H6
  - Balanço Anual
