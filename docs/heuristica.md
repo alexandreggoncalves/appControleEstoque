@@ -7,11 +7,11 @@
  - MAC
  - Verificar acesso
  - Verificar certificado HTTPS
-
+   
 | classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
 | --- | --- | --- | --- | --- |
-| Acesso | IP/MAC | verificaCertificado | | |
-| | | verificaAcesso | | |
+| Acesso | ip     | verificaCertificado | | |
+|        | mac    | verificaAcesso      | | |
 
 #### H2
  - Login
