@@ -6,6 +6,10 @@
  - IP
  - MAC
 
+| classes candidatas | Atributos | Info. Estanha | Redundância
+| --- | --- | --- | --- |
+| Acesso | IP/MAC | | |
+
 #### H2
  - Login
  - Usuário
@@ -77,5 +81,123 @@
  
  #### H9
  - Inserir requisição de compra
- - Produto, quantidade, fornecedor, data prevista entrega, dia, mês e ano, justificativa
- - 
+ - Produto
+ - Quantidade
+ - Fornecedor
+ - Data prevista entrega
+ - Dia
+ - Mês
+ - Qno
+ - Jstificativa
+ - Exibir Mensagem de erro
+ - Gerar arquivo PDF
+ - Enviar email
+ - Consultar histórico
+ - Data requisição
+ - Produto
+ - Quantidade
+ - Motivo
+ - Data de entrega,
+ - Status da Requisição
+ - Observações
+ - inserir requisição
+ - Gerar número da requisição
+
+#### H10
+ - Inserir produtos
+ - Editar produtos
+ - Excluir produtos
+ - Consultar produtos
+ - Produto
+ - Nome
+ - Código
+ - Descrição
+ - Preço
+ - Quantidade
+ - Fornecedor
+ - Validar campos
+ - Código de barra
+ - Fornecedor
+ - Exibir mensagem de confirmação
+ - Validar valores numericos
+
+#### H11
+ - Gerar relatórios de produtos
+ - Produtos
+ - Gerar relatório
+ - Exportar relatório em PDF
+ - Visualizar relatório em PDF
+ - Armazenar relatório
+ - Data
+ - Hora
+
+#### H12
+ - Melhorias
+ - Feedback
+ - Enviar por email
+ - Modo
+ - Anonimo
+ - Identificado
+ - Numero protocolo
+ - Busca
+
+#### H13
+ - Personalizar relatórios
+ - Criar pastas
+ - Selecionar dados
+ - Tipos de relatórios (vendas, iventário e movimentação de estoque)
+
+#### H14
+ - Retornar dados
+ - Uploads
+ - Formatos CSF, Excel e JSON
+ - Atualizar informações
+ - Notificar usuário sobre uploads grandes
+ - Notificações de atualização
+ - Notificação de processamento
+ - Atualizar relatórios
+
+#### H15
+ - Alertas inteligentes
+ - Problemas logísticos
+ - Identificar problmeas logísticos
+ - Falhas de estoque
+ - Desvios na cadeia de suprimentos
+ - Falha de fornecedor
+ - Alertas por email
+ - Analise de dados
+ - Ajustar previsões de demanda
+
+#### H16
+ - App mobile
+ - Relatórios detalhados
+ - Histórico de movimentação de estoque
+ - Previsões de demanda
+ - Status de reabastecimento
+ - Personalizar relatório
+ - Atualizar relatório
+ - Data
+ - Hora
+
+#### H17
+ - Verificar estoque
+ - Vender
+ - Relatório de produtos em formato PDF
+ - Ler QRCODE
+
+#### H18
+ - Produtos à vencer
+ - Alerta de produtos
+ - Emitir relatório
+ - Produtos vencidos ou com avarias
+
+#### H19
+ - Atendimento
+ - Chat
+ - Vendedor
+ - Emitir comprovante
+ - Data
+ - Hora
+ - Compra
+ - Garantida do produto
+   
