@@ -186,22 +186,22 @@
 
 | classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
 | --- | --- | --- | --- | --- |
-| Produto              | idProduto          | incluir            | dia | |
-|                      | quant              | editar             | mes | |
-|                      | idFornecedor       | excluir            | ano | |
-|                      | dataEntrega        |                    |     | |
-|                      | data               |                    |     | |
-| RequisicaoCompra     | justificativa      | incluir            |     | |
-|                      | motivo             | editar             |     | |
-|                      | statusRequisicao   | excluir            |     | |
-|                      | nroRequisicao      | gerarNroRequisicao |     | |
-|                      | observacoes        | consultarHistorico |     | |
-|                      | mensagem           | enviarEmail        |     | |
-|                      | data               | gerarPdf           |     | |
-|                      |                    | exibirErro         |     | |
-| Fornecedor           | idFornecedor       | incluir            |     | |
-|                      | nome               | editar             |     | |
-|                      |                    | excluir            |     | |
+| Produto              | idProduto          | incluir            | dia | motivo |
+|                      | quant              | editar             | mes |        |
+|                      | idFornecedor       | excluir            | ano |        |
+|                      | dataEntrega        |                    |     |        |
+|                      | data               |                    |     |        |
+| RequisicaoCompra     | justificativa      | incluir            |     |        |
+|                      | statusRequisicao   | editar             |     |        |
+|                      | nroRequisicao      | excluir            |     |        |
+|                      | observacoes        | gerarNroRequisicao |     |        |
+|                      | mensagem           | consultarHistorico |     |        |
+|                      | data               | enviarEmail        |     |        |
+|                      |                    | gerarPdf           |     |        |
+|                      |                    | exibirErro         |     |        |
+| Fornecedor           | idFornecedor       | incluir            |     |        |
+|                      | nome               | editar             |     |        |
+|                      |                    | excluir            |     |        |
 
 #### H10
  - Inserir produtos
@@ -221,8 +221,19 @@
  - Exibir mensagem de confirmação
  - Validar valores numericos
 
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
+| --- | --- | --- | --- | --- |
+| Produto              | idProduto          | incluir                | | validarCampos |
+|                      | quant              | editar                 | |               |
+|                      | idFornecedor       | excluir                | |               |
+|                      | dataEntrega        | consultar              | |               |
+|                      | data               | validaValoresNumericos | |               |
+|                      | preco              | mensagemConfirmacao    | |               |
+|                      | codigoDeBarras     |                        | |               |
+
 #### H11
  - Gerar relatórios de produtos
+ - Relatorios
  - Produtos
  - Gerar relatório
  - Exportar relatório em PDF
@@ -230,6 +241,14 @@
  - Armazenar relatório
  - Data
  - Hora
+
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
+| --- | --- | --- | --- | --- |
+| Relatorios           | idRelatorio | exportarEmXLS          | | Produtos |
+|                      | data        | exportarEmPDF          | | |
+|                      | hora        | visualizarRelatorio    | | |
+|                      |             | armazenarRelatorio     | | |
+| RelatorioProdutos    |             |                        | | |
 
 #### H12
  - Melhorias
@@ -240,6 +259,15 @@
  - Identificado
  - Numero protocolo
  - Busca
+
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
+| --- | --- | --- | --- | --- |
+| SugestaoMelhorias    | idSugestaoMelhoria  | inserir                | | Identificacao |
+|                      | modo                | editar                 | | Anonimo       |
+|                      | protocolo           | excluir                | |               |
+|                      | idUsuario           | buscar                 | |               |
+|                      | feedback            | inserirFeedback        | |               |
+|                      | sugestaoMelhoria    |                        | |               |
 
 #### H13
  - Personalizar relatórios
