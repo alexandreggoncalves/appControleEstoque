@@ -200,6 +200,7 @@
 |                      |                    | exibirErro         |     | |
 | Fornecedor           | idFornecedor       | incluir            |     | |
 |                      | nome               | editar             |     | |
+|                      |                    | excluir            |     | |
 
 #### H10
  - Inserir produtos
