@@ -20,6 +20,7 @@
  - Esqueci minha Senha
  - Troca de senha
  - Verificar troca de senha a cada 30 dias
+ - 
 | classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
 | --- | --- | --- | --- | --- |
 | Login | usuario | login                | | |
