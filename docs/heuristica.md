@@ -275,6 +275,12 @@
  - Selecionar dados
  - Tipos de relatórios (vendas, iventário e movimentação de estoque)
 
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
+| --- | --- | --- | --- | --- |
+| Vendas              | |             | Personalizar relatórios | Criar pastas |
+| Iventario           | |             |                         |              |
+| MovimentacaoEstoque | |             |                         |              |
+
 #### H14
  - Retornar dados
  - Uploads
@@ -284,6 +290,12 @@
  - Notificações de atualização
  - Notificação de processamento
  - Atualizar relatórios
+
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
+| --- | --- | --- | --- | --- |
+| RetornarDados  | idUsuario   | atualizarInformacoes | Uploads | Atualizar relatorios         |
+|                | idRelatorio | notificarUsuario     |         | Notificacao de Processamento |
+|                |             | notificarAtualizacao |         |                              |
 
 #### H15
  - Alertas inteligentes
@@ -296,6 +308,13 @@
  - Analise de dados
  - Ajustar previsões de demanda
 
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
+| --- | --- | --- | --- | --- |
+| Alertainteligente  | idUsuario   | problemasLogisticos     | Analise de dados             | Identificar Problemas Logisticos |
+|                    |             | falhasDeEstoque         | Ajustar provisoes de demanda |                                  |
+|                    |             | desvioCadeiaSuprimentos |                              |                                  |
+|                    |             | falhaDeFornecedor       |                              |                                  |
+
 #### H16
  - App mobile
  - Relatórios detalhados
@@ -307,17 +326,43 @@
  - Data
  - Hora
 
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
+| --- | --- | --- | --- | --- |
+| AppMobile          | idUsuario   | relatorioDetalhado     | | |
+|                    | idRelatorio | historicoMovimentacao  | | |
+|                    | data        | provisoesDeDemanda     | | |
+|                    | hora        | personalizarRelatorio  | | |
+
 #### H17
  - Verificar estoque
  - Vender
+ - Clietne
  - Relatório de produtos em formato PDF
  - Ler QRCODE
+
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
+| --- | --- | --- | --- | --- |
+| Venda            | idVenda    |                     | | |
+|                  | idProduto  |                     | | |
+|                  | qrCode     |                     | | |
+|                  | quantidade |                     | | |
+|                  | idCliente  |                     | | |
+| VerificaEstoque  |            | consultarEstoque    | | |
+|                  |            | inserirProduto      | | |
 
 #### H18
  - Produtos à vencer
  - Alerta de produtos
  - Emitir relatório
  - Produtos vencidos ou com avarias
+
+
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
+| --- | --- | --- | --- | --- |
+| ProdutosAVencer  | idProduto  | produtosAVencer           | | |
+|                  |            | alertaProdutos            | | |
+|                  |            | relatorioProdutos         | | |
+|                  |            | produtosVencidosAvarias   | | |
 
 #### H19
  - Atendimento
@@ -329,3 +374,20 @@
  - Compra
  - Garantida do produto
    
+
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
+| --- | --- | --- | --- | --- |
+| Venda            | idVenda       | inserir             | Compra | |
+|                  | idProduto     | editar              |        | |
+|                  | idCliente     | cancelar            |        | |
+|                  | data          | emitirComprovante   |        | |
+|                  | hora          | atualizarTotal      |        | |
+|                  | valortotal    |                     |        | |
+|                  | idVendedor    |                     |        | |
+| ItemVenda        | idVenda       | inserirProduto      |        | |
+|                  | idProduto     | removerProduto      |        | |
+|                  | quantidade    |                     |        | | 
+|                  | precoUnitario |                     |        | | 
+|                  | garantia      |                     |        | | 
+
+
