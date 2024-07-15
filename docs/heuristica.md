@@ -5,10 +5,12 @@
  - Acesso
  - IP
  - MAC
+ - Verificar acesso
 
-| classes candidatas | Atributos | Info. Estanha | Redundância
-| --- | --- | --- | --- |
-| Acesso | IP/MAC | | |
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância
+| --- | --- | --- | --- | --- |
+| Acesso | IP/MAC | Login | | |
+| | | verificaAcesso | | |
 
 #### H2
  - Login
@@ -17,7 +19,14 @@
  - Esqueci minha Senha
  - Troca de senha
  - Senhas antigas
- 
+
+
+| classes candidatas | Atributos | Info. Estanha | Redundância
+| --- | --- | --- | --- |
+| Login | Usuário | | |
+| Login | Senha | | |
+| Login | Usuário | | |
+
 ### H3
  - Perfis de Usuário
  - Incluir, editar, excluir
