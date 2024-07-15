@@ -6,10 +6,11 @@
  - IP
  - MAC
  - Verificar acesso
+ - Verificar certificado HTTPS
 
 | classes candidatas | Atributos | Métodos | Info. Estanha | Redundância
 | --- | --- | --- | --- | --- |
-| Acesso | IP/MAC | Login | | |
+| Acesso | IP/MAC | verificaCertificado | | |
 | | | verificaAcesso | | |
 
 #### H2
@@ -20,12 +21,10 @@
  - Troca de senha
  - Senhas antigas
 
-
-| classes candidatas | Atributos | Info. Estanha | Redundância
-| --- | --- | --- | --- |
-| Login | Usuário | | |
-| Login | Senha | | |
-| Login | Usuário | | |
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância
+| --- | --- | --- | --- | --- |
+| Acesso | IP/MAC | Login | | |
+| | | verificaAcesso | | |
 
 ### H3
  - Perfis de Usuário
