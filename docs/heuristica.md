@@ -67,8 +67,8 @@
 
 | classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
 | --- | --- | --- | --- | --- |
-| Usuario | usuario    | incluir              | Usuarios | email |
-|         | senha      | editar               |          | |
+| Usuario | usuario    | incluir              |          | Usuarios |
+|         | senha      | editar               |          | email    |
 |         | cpf        | excluir              |          | |
 |         | nascimento | resetSenha           |          | |
 |         | idPerfil   | setSenhaPadrao       |          | |
@@ -98,13 +98,19 @@
 |                       | formato      |          | | |
 
 #### H6
- - Balanço Anual
+ - Relatório Balanço Anual
  - Produtos contabilidados
  - Balanco parcial
  - Balanco completo
  - Avisar usuários
  - Exportar balanço
  - Percentual contabilizado
+
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
+| --- | --- | --- | --- | --- |
+| RelatorioBalancoAnual | tipoBalanco   | buscaContabilizados | | |
+|                       | mensagem      | avisoUsuario        | | |
+|                       |               | exportarBalanco     | | |
 
 #### H7
  - Fechamento balanço anual
@@ -116,13 +122,40 @@
  - Editar parecer final
  - Enviar alerta parecer
 
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
+| --- | --- | --- | --- | --- |
+| BalancoAnual  | idBalanco      | inserirParecer | | |
+|               | dataFechamento | editarParecer  | | |
+|               | nome           | enviarAlerta   | | |
+|               | status         |                | | |
+|               | parecer        |                | | |
+|               | percentual     |                | | |
+|               | mensagem       |                | | |
+
 #### H8
  - Personalizar interface do sistema
- - Fonte, tamanho da fonte, cor, layout
+ - usuario 
+ - Fonte
+ - tamanho da fonte
+ - cor
+ - layout
  - Aumentar/diminuir fonte
  - Mudar fonte
  - Mudar cor
- - Selecionar layout predefinido
+ - Selecionar layout predefinido (banco, preto, personalizado)
+
+
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
+| --- | --- | --- | --- | --- |
+| PersonalizaInterface | idlayout          | mudarTamFonte  | | Layout |
+|                      | usuario           | mudarFonte     | | |
+|                      | fonte             | mudarCor       | | |
+|                      | tamFonte          |                | | |
+|                      | cor               |                | | |
+|                      | layoutPredefinido |                | | |
+| LayoutPreto          |                   |                | | |
+| LayoutBranco         |                   |                | | |
+| LayoutPersonalizado  |                   |                | | |
  
  #### H9
  - Inserir requisição de compra
@@ -132,7 +165,7 @@
  - Data prevista entrega
  - Dia
  - Mês
- - Qno
+ - Ano
  - Jstificativa
  - Exibir Mensagem de erro
  - Gerar arquivo PDF
@@ -146,7 +179,27 @@
  - Status da Requisição
  - Observações
  - inserir requisição
+ - editar requisicao
+ - excluir requisicao
  - Gerar número da requisição
+
+| classes candidatas | Atributos | Métodos | Info. Estanha | Redundância |
+| --- | --- | --- | --- | --- |
+| Produto              | idProduto          | incluir            | dia | |
+|                      | quant              | editar             | mes | |
+|                      | idFornecedor       | excluir            | ano | |
+|                      | dataEntrega        |                    |     | |
+|                      | data               |                    |     | |
+| RequisicaoCompra     | justificativa      | incluir            |     | |
+|                      | motivo             | editar             |     | |
+|                      | statusRequisicao   | excluir            |     | |
+|                      | nroRequisicao      | gerarNroRequisicao |     | |
+|                      | observacoes        | consultarHistorico |     | |
+|                      | mensagem           | enviarEmail        |     | |
+|                      | data               | gerarPdf           |     | |
+|                      |                    | exibirErro         |     | |
+| Fornecedor           | idFornecedor       | incluir            |     | |
+|                      | nome               | editar             |     | |
 
 #### H10
  - Inserir produtos
