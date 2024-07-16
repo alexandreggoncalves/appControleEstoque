@@ -45,7 +45,8 @@
 ### História H10
 - foi realizado as correções em 68, 69, 70, 71, 
 ### História H11
-- 
+- foi realizado as correções em 75, 76, 77, 78, 79 e 81
+- defeito 80 náo foi atendido devido não ser encontrado o que o inspetor apontou para correção.
 
 ### História H12
 - defeitos 83, 84, 85, 66 e 86 foram corrigidos.
