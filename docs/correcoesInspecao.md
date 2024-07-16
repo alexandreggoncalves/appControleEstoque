@@ -45,6 +45,7 @@
 ### História H10
 - foi realizado as correções em 68, 69, 70, 71, 
 ### História H11
+- 
 
 ### História H12
 - defeitos 83, 84, 85, 66 e 86 foram corrigidos.
