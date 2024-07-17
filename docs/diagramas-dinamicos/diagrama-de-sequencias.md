@@ -4,11 +4,11 @@
 ![alt Gerente](https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/diagramas-dinamicos/diagrama_sequencia_gerente.jpeg)
 
 ## Operador de Reposição
-![alt Operador de Reposição](https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/diagramas-dinamicos/diagrama_sequencia_operador_reposicao.jpeg)
+![alt Operador de Reposição](https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/diagramas-dinamicos/diagrama_sequencia_operador_de_reposicao.jpeg)
 
 
 ## Operador de Movimentação
-![alt Operador de Movimentação](https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/diagramas-dinamicos/diagrama_sequencia_operador_movimentacao.jpeg)
+![alt Operador de Movimentação](https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/diagramas-dinamicos/diagrama_sequencia_operador_de_movimentacao.jpeg)
 
 
 ## Operador de Fechamento
