@@ -7,7 +7,7 @@
 ![Container Operador de Reposição](https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/modelo-c4/conteiner_operador_de_reposicao.png)
 
 ## Operador de Movimentação
-![alt Container Operador de Movimentação](https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/modelo-c4/conteiner_operador_de_movimentacao.png)
+![Container Operador de Movimentação](https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/modelo-c4/conteiner_operador_de_movimentacao.png)
 
 ## Operador de Fechamento
 ![Container Gerente de Estoquee](https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/modelo-c4/conteiner_de_operador_de_fechamento.png)
