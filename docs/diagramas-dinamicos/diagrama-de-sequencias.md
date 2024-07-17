@@ -12,7 +12,7 @@
 
 
 ## Operador de Fechamento
-![alt Operador de Fechamento](https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/diagramas-dinamicos/diagrama_sequencia_operador_fechamento.jpeg)
+![alt Operador de Fechamento](https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/diagramas-dinamicos/diagrama_sequencia_operador_de_fechamento.jpeg)
 
 
 ## Operador de Vendas
