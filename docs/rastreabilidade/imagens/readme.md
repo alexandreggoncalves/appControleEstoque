@@ -31,6 +31,7 @@ A tela  de Relatório de Entrada e Saída  satisfaz a história (H5)
 
 ![WhatsApp Image 2024-07-24 at 01 58 17](https://github.com/user-attachments/assets/1c789400-30b3-45c2-870e-cb935c3eb02a)
 
+A tela  de Inserir Requisição de Compras satisfaz a história (H9)
 
 ![WhatsApp Image 2024-07-24 at 01 58 50](https://github.com/user-attachments/assets/3227967a-d0a6-4889-87d5-c57609eae24d)
 
