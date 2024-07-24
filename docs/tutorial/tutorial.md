@@ -150,6 +150,7 @@
 
 # Tela de Inserir Parecer de Fechamento
 - Este manual fornece instruções detalhadas sobre como utilizar a tela "Inserir Parecer de Fechamento" no sistema "Meu Estoque Fácil".
+- A tela "Inserir Parecer de Fechamento" é exibida conforme a imagem.
 - A tela permite ao usuário inserir e salvar um parecer de fechamento com informações como nome, data, status e o texto do parecer.
 - Possui os seguintes campos:
 - Nome.
@@ -166,6 +167,7 @@
 
 # Tela Inserir Requisição de Compra
 - Este manual fornece instruções detalhadas para a tela "Inserir Requisição de Compra" do sistema "Meu Estoque Fácil".
+- A tela "Inserir Requisição de Compra" é exibida conforme a imagem.
 - Esta tela permite ao usuário inserir uma nova requisição de compra, selecionando o fornecedor e os produtos desejados.
 - Possui funções para buscar fornecedores e produtos.
 - Digite o nome ou parte do nome do fornecedor no campo de busca "Busca de fornecedor".
@@ -177,6 +179,7 @@
 
 # Tela Salvar Requisição de Compra
 - Este manual detalhado para a tela "Salvar Requisição de Compra" do sistema "Meu Estoque Fácil". A tela permite ao usuário revisar, ajustar e salvar uma requisição de compra com produtos selecionados, definir uma previsão de dados de entrega e adicionar uma justificativa para a requisição.
+-  A tela "Requisição de Compra" é exibida conforme a imagem.
 - A tela possui:
 - Data Prevista da Entrega.
 - Vizualizacão dos produtos selecionados, seus IDs e quantidades.
@@ -192,6 +195,7 @@
 
 # Tela de Inserir Produto
 - Este é um manual detalhado para a tela "Inserir Produto" do sistema "Meu Estoque Fácil". Esta tela permite ao usuário inserir novos produtos no sistema, fornecendo detalhes como código, nome, preço, quantidade e fornecedor.
+-  A tela "Inserir Produto" é exibida conforme a imagem.
 - A tela possui:
 - Código.
 - Nome do produto.
@@ -214,6 +218,7 @@
 
 # Tela de Inclusão de Melhorias
 - Este é um manual detalhado para a tela "Inclusão de melhorias" do "Meu Estoque Fácil". Esta tela permite ao usuário inserir nsugestões de melhorias.
+-  A tela "Inclusão de Melhorias" é exibida conforme a imagem.
 - A tela possui:
 - Status.
 - Data.
@@ -228,6 +233,7 @@
 
 # Tela de Salvar Inclusão de Melhorias
 - Este é um manual detalhado para a tela "Salvar Inclusão de melhorias" do "Meu Estoque Fácil". Esta tela permite ao usuário salvar as sugestões de melhorias.
+-  A tela "Salvar Inclusão de Melhorias" é exibida conforme a imagem.
 - A tela possui as seguintes funções:
 - Adição de arquivos.
 - Descrição
@@ -238,3 +244,61 @@
 - Clique no botão "Salvar" para registrar a solicitação.
 - Na tabela de melhorias, localize a solicitação desejada pelo ID ou breve descrição.
 ![Salvar Inclusão de Melhorias](https://github.com/user-attachments/assets/74cdc9f5-e796-4790-b604-2e1d40ec238d)
+
+# Tela Buscar Produto
+- Este é um manual detalhado para a tela "Buscar Produto" do "Meu Estoque Fácil". Esta tela é parte do sistema "Meu Estoque Fácil" e é utilizada para buscar produtos específicos no estoque.
+-  A tela "Buscar Produto" é exibida conforme a imagem.
+- Digite o produto que deseja buscar.
+- Após digitar o termo de busca, clique no botão buscar para iniciar a busca dos produtos.
+- Após a busca, os resultados são exibidos em uma tabela abaixo do campo de busca.
+![Buscar Produto](https://github.com/user-attachments/assets/a9342d17-6ef0-44c4-ac7d-cc8572cce084)
+
+# Tela Relatório de produto
+- Este é um manual detalhado para a tela "Relatório de Produto" do "Meu Estoque Fácil". Esta tela permite a geração de um relatório com a entrega dos produtos em estoque dentro de um período específico.
+-  A tela "Relatório de Produto" é exibida conforme a imagem.
+- Insira os dados inicial e final do período que deseja consultar no relatório.
+- Clique no botão "GERAR" para gerar o relatório.
+- Exporte como PDF o relatório que foi gerado.
+![Relatório de Produto](https://github.com/user-attachments/assets/469ff23f-d6b2-4fe9-9311-ce4b6433730a)
+
+# Tela Personalizar Interface
+- Este é um manual detalhado para a tela "Personalizar Interface" do "Meu Estoque Fácil". A tela permite ao usuário personalizar a cor do layout, a fonte e o tamanho da fonte para serem usados no sistema.
+-  A tela "Personalizar Interface" é exibida conforme a imagem.
+- Selecione a cor que deseja para o layout.
+- Selecione a fonte que deseja usar clicando nela na lista de fontes disponíveis.
+- Ajuste o tamanho da fonte.
+- Clique no botão Salvar para salvar suas alterações.
+![Personalização de Interface](https://github.com/user-attachments/assets/b76267e3-d21f-45e8-8da6-cc65c28521bd)
+
+# Tela Personalizar Relatório
+- Este é um manual detalhado para a tela "Personalizar Relatório" do "Meu Estoque Fácil". A tela de personalização de relatórios permite que os usuários personalizem a forma como os relatórios do sistema são exibidos.
+- A tela "Personalizar Interface" é exibida conforme a imagem.
+- Selecione a pasta que contém os relatórios que deseja personalizar clicando nela na lista de pastas disponíveis.
+- Selecione o relatório que deseja personalizar clicando nele na lista de relatórios disponíveis na pasta selecionada.
+- Personalize os campos do relatório arrastando e soltando-os para a ordem desejada.
+- Selecione o formato dos campos usando menus suspensos.
+ ![Personalizar Relatórios](https://github.com/user-attachments/assets/850a3036-683a-4fda-a601-e86f38c7cd97)
+
+# Tela Consulta
+- Este é um manual detalhado para a tela "Consulta" do "Meu Estoque Fácil". A tela de Consulta de Estoque permite ao usuário consultar as informações sobre os produtos em estoque.
+- A tela "Consulta" é exibida conforme a imagem.
+- Na seção de busca, digite os critérios de busca nos campos de busca.
+- Clique no botão "Buscar" para iniciar a busca.
+- A seção de resultados da busca exibirá os produtos que atendem aos critérios informados.
+- O usuário pode visualizar os detalhes de um produto clicando no seu nome.
+- O usuário pode adicionar um produto ao carrinho de compras clicando no botão "Adicionar ao Carrinho".
+- Selecione os produtos que deseja realizar ações.
+- Na seção de ações, clique no botão da ação que deseja realizar.
+![Consultar Estoque](https://github.com/user-attachments/assets/731c24fa-7033-4145-9a36-cf66c23aa022)
+
+# Tela Produtos a Vencer
+- Este é um manual detalhado para a tela "Produtos a Vencer" do "Meu Estoque Fácil". A tela de produtos à vencer permite ao usuário visualizar a lista de produtos que estão prestes a vencer a validade. 
+- A tela "Produtos a Vencer" é exibida conforme a imagem.
+- Na seção de filtros, selecione os critérios de filtro desejados.
+- Clique no botão "Filtrar" para aplicar os filtros à lista de produtos.
+- A seção de resultados exibirá a lista de produtos que atendem aos critérios de filtro.
+- O usuário pode visualizar os detalhes de um produto clicando no seu nome.
+- O usuário pode marcar um produto clicando na caixa de seleção ao lado do seu nome.
+- Selecione os produtos que deseja realizar ações.
+- Na seção de ações, clique no botão da ação que deseja realizar.
+![Produtos a Vencer](https://github.com/user-attachments/assets/4c33170f-5096-4dad-9d41-850cbbe37ad6)
