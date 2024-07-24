@@ -19,6 +19,7 @@ Clique no botão "ENTRAR":
 - Clique no botão "SOLICITAR":
 ![WhatsApp Image 2024-07-24 at 01 53 54](https://github.com/user-attachments/assets/fbdc0978-c9cd-4821-82bd-774252474813)
 
+# Tela Trocar a Senha
 - A tela de troca de senha é exibida conforme a imagem;
 - Insira sua senha atual;
 - No campo "Senha antiga", digite sua senha atual.
