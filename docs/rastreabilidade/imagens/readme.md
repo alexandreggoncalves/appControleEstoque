@@ -60,7 +60,7 @@ A tela  de Inclusão de Melhorias satisfaz a história (H12)
 
 ![Inclusão de Melhorias](https://github.com/user-attachments/assets/bf2001a9-b5bf-48cb-ac55-6c7fd6510d11)
 
-A tela  de SalvarInclusão de Melhorias satisfaz a história (H12)
+A tela  de Salvar Inclusão de Melhorias satisfaz a história (H12)
 
 ![Salvar Inclusão de Melhorias](https://github.com/user-attachments/assets/74cdc9f5-e796-4790-b604-2e1d40ec238d)
 
