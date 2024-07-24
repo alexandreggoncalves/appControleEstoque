@@ -6,14 +6,17 @@
 
 ![WhatsApp Image 2024-07-24 at 01 53 54](https://github.com/user-attachments/assets/fbdc0978-c9cd-4821-82bd-774252474813)
 
--    A tela Trocar a Senha satisfaz a historia (H2)
+-    A tela Trocar a Senha satisfaz a história (H2)
   
 ![WhatsApp Image 2024-07-24 at 01 54 53](https://github.com/user-attachments/assets/88857416-ddca-408b-9d55-b0fa743f5eab)
 
--  A tela  de Novo Perfil satisfaz a história (H3)
+-  A tela  de Novo Perfil satisfaz a história (H3, H2)
+  
 ![WhatsApp Image 2024-07-24 at 01 56 00](https://github.com/user-attachments/assets/2d0ef31f-6b83-473e-84bb-89a53b2bc946)
 
 
+A tela  de Novo Perfil satisfaz a história (H3, H2)
+  
 ![WhatsApp Image 2024-07-24 at 01 56 55](https://github.com/user-attachments/assets/e7d9eadb-6779-4759-876a-38192e64828b)
 
 
