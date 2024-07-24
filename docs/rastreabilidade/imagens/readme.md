@@ -34,6 +34,7 @@ A tela  de Relatório de Entrada e Saída  satisfaz a história (H5)
 
 ![WhatsApp Image 2024-07-24 at 01 58 50](https://github.com/user-attachments/assets/3227967a-d0a6-4889-87d5-c57609eae24d)
 
+A tela  de Relatório de Baalanço Anual satisfaz a história (H6)
 
  ![WhatsApp Image 2024-07-24 at 01 59 21](https://github.com/user-attachments/assets/d829d9bf-e75f-401b-b5d2-bf578a40b692)
 
