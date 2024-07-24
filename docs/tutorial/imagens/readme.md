@@ -24,4 +24,7 @@ Clique no botão "ENTRAR":
 - No campo "Nova senha", digite sua nova senha.
 - No campo "Confirmar senha", digite sua nova senha novamente.
 - Certifique-se de que a senha confirmada seja exatamente igual à nova senha.
+- Após inserir todas as informações, clique no botão "SALVAR".
+- Se as informações estiverem corretas, sua senha será alterada com sucesso.
+- Você será direcionado para a tela de login, onde poderá fazer login com sua nova senha.
 ![WhatsApp Image 2024-07-24 at 01 54 53](https://github.com/user-attachments/assets/88857416-ddca-408b-9d55-b0fa743f5eab)
