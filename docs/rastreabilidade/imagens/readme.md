@@ -1,8 +1,8 @@
--    A tela  de  Login satisfaz a historia (H2)
+-    A tela  de  Login satisfaz a história (H2)
     
 ![WhatsApp Image 2024-07-24 at 01 51 53](https://github.com/user-attachments/assets/6180b2d3-d09e-429a-a422-55f609f13c66)
 
--    A tela  Esqueci Minha Senha satisfaz a historia (H2)
+-    A tela  Esqueci Minha Senha satisfaz a história (H2)
 
 ![WhatsApp Image 2024-07-24 at 01 53 54](https://github.com/user-attachments/assets/fbdc0978-c9cd-4821-82bd-774252474813)
 
@@ -31,7 +31,7 @@ A tela  de Relatório de Entrada e Saída  satisfaz a história (H5, H11, H16)
 
 ![WhatsApp Image 2024-07-24 at 01 58 17](https://github.com/user-attachments/assets/1c789400-30b3-45c2-870e-cb935c3eb02a)
 
-A tela satisfaz a história (H15)
+A tela Principal satisfaz a história (H15)
 
 
 ![WhatsApp Image 2024-07-24 at 01 58 50](https://github.com/user-attachments/assets/3227967a-d0a6-4889-87d5-c57609eae24d)
@@ -79,5 +79,9 @@ A tela  de Personalizar Relatório satisfaz a história (H13)
 A tela  Consultar satisfaz a história (H17)
 
 ![Consultar Estoque](https://github.com/user-attachments/assets/731c24fa-7033-4145-9a36-cf66c23aa022)
+
+A tela  Produtos a vencer satisfaz a história (H18)
+
+![Produtos a Vencer](https://github.com/user-attachments/assets/4c33170f-5096-4dad-9d41-850cbbe37ad6)
 
 
