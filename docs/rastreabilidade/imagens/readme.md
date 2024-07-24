@@ -42,3 +42,5 @@
 ![Salvar Inclusão de Melhorias](https://github.com/user-attachments/assets/74cdc9f5-e796-4790-b604-2e1d40ec238d)
 
 ![Buscar Produto](https://github.com/user-attachments/assets/a9342d17-6ef0-44c4-ac7d-cc8572cce084)
+
+![Relatório de Produto](https://github.com/user-attachments/assets/469ff23f-d6b2-4fe9-9311-ce4b6433730a)
