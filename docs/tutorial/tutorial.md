@@ -109,20 +109,31 @@
 - Os relatórios podem ser filtradasde acordo como dia, semana, mês, ano, entrada ou saída e tipode material.
 - Cada material possui um ID.
 - Os relatórios podem ser exportados comp PDF e XLS.
-- A tela contém as seguintes informações:
-- ID
-- Nome do material
-- Data de movimentação
-- Tipo de movimentação
+- O relatório possui seguintes informações:
+- ID do material.
+- Nome do material.
+- Data de movimentação.
+- Tipo de movimentação.
 - Quantidade.
 ![WhatsApp Image 2024-07-24 at 01 58 17](https://github.com/user-attachments/assets/1c789400-30b3-45c2-870e-cb935c3eb02a)
 
 # Tela Principal
--  Este manual tem como objetivo auxiliar os usuários na utilização da tela "Principala" do Meu Estoque Fácil. A tela "Principal" permite que os usuários acessem e vizualizem as movimentações de entrada e saída do estoque.
+- Este manual tem como objetivo auxiliar os usuários na utilização da tela "Principala" do Meu Estoque Fácil. A tela "Principal" é a página principal.
 - A tela "Principal" é exibida conforme a imagem.
-- A tela contém as seguintes informações:
-- Perfis.
-- Usuários.
-- Relatórios.
-- Fechamentos
+- O usuário é direcionado a essa tela após fazer o login.
 ![WhatsApp Image 2024-07-24 at 01 58 50](https://github.com/user-attachments/assets/3227967a-d0a6-4889-87d5-c57609eae24d)
+
+# Tela de Relatório de Balanço Anual
+- Este manual tem como objetivo auxiliar os usuários na utilização da tela "Relatório de Balanço Anual" do Meu Estoque Fácil. A tela "Relatório de Balanço Anual" permite que o gerente acesse e vizualizem as movimentações de entrada e saída do estoque.
+- A tela "Relatório de Balanço Anual" é exibida conforme a imagem.
+- Permite ao usuário gerenciar o inventário de produtos, incluindo a adição, edição, exclusão e visualização de itens no estoque.
+- O relatório pode ser exportado como PDF.
+- O relatório pode ser visível de forma completa ou parcial.
+- O relatório possui as seguintes informações:
+- ID do material.
+- Nome do material.
+- Tipo de produto.
+- Data da contabilização.
+- Quantidade.
+- Percentual do estoque contabilizado.
+![WhatsApp Image 2024-07-24 at 01 59 21](https://github.com/user-attachments/assets/d829d9bf-e75f-401b-b5d2-bf578a40b692)
