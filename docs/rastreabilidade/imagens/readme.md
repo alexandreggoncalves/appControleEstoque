@@ -44,3 +44,5 @@
 ![Buscar Produto](https://github.com/user-attachments/assets/a9342d17-6ef0-44c4-ac7d-cc8572cce084)
 
 ![Relatório de Produto](https://github.com/user-attachments/assets/469ff23f-d6b2-4fe9-9311-ce4b6433730a)
+
+![Personalização de Interface](https://github.com/user-attachments/assets/b76267e3-d21f-45e8-8da6-cc65c28521bd)
