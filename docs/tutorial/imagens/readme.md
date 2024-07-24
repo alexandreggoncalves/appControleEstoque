@@ -1,9 +1,9 @@
 # Tela De Login
-- Acesse a tela de login;
-- Insira suas credenciais;
+- Acesse a tela de login.
+- Insira suas credenciais.
 - No campo "Usuário", digite o nome de usuário da sua conta.
 - No campo "Senha", digite a senha da sua conta.
-Clique no botão "ENTRAR":
+- Clique no botão "ENTRAR".
 - Se as credenciais estiverem corretas, você será direcionado para a tela principal do Meu Estoque Fácil.
 - Se você esqueceu sua senha, clique no link "Esqueci Minha Senha".
 - Você será direcionado para uma página para recuperar sua senha.
@@ -13,15 +13,15 @@ Clique no botão "ENTRAR":
 
 # Tela Esqueci Minha Senha 
 - A tela "Esqueci Minha Senha" é exibida conforme a imagem
-- Insira seu nome de usuário:
+- Insira seu nome de usuário.
 - No campo "Usuário", digite o nome de usuário da sua conta.
 - Certifique-se de digitar o nome de usuário corretamente.
-- Clique no botão "SOLICITAR":
+- Clique no botão "SOLICITAR".
 ![WhatsApp Image 2024-07-24 at 01 53 54](https://github.com/user-attachments/assets/fbdc0978-c9cd-4821-82bd-774252474813)
 
 # Tela Trocar a Senha
-- A tela de troca de senha é exibida conforme a imagem;
-- Insira sua senha atual;
+- A tela de troca de senha é exibida conforme a imagem.
+- Insira sua senha atual.
 - No campo "Senha antiga", digite sua senha atual.
 - Certifique-se de digitar a senha atual corretamente.
 - No campo "Nova senha", digite sua nova senha.
@@ -33,8 +33,12 @@ Clique no botão "ENTRAR":
 - Você será direcionado para a tela de login, onde poderá fazer login com sua nova senha.
 ![WhatsApp Image 2024-07-24 at 01 54 53](https://github.com/user-attachments/assets/88857416-ddca-408b-9d55-b0fa743f5eab)
 
+# Tela de Novo Perfil
 - A tela de perfis só pode ser acessada por usuários com a permissão "Gerenciar Perfis".
 - A tela de perfis pode ser acessada pelo menu principal do sistema.
-- Para fazer isso, clique no menu "Configurações" e depois na opção "Perfis".
+- Para fazer isso, clique no menu principal e depois na opção "Perfis".
 - A tela de perfis será exibida conforme a imagem;
+- A tela de perfis exibe uma lista de todos os perfis cadastrados no sistema.
+- Para cada perfil, a lista exibe as seguintes informações: Nome do perfi, áreas de acesso.
+- As áreas do sistema que os usuários com esse perfil podem acessar.
 ![WhatsApp Image 2024-07-24 at 01 56 00](https://github.com/user-attachments/assets/2d0ef31f-6b83-473e-84bb-89a53b2bc946)
