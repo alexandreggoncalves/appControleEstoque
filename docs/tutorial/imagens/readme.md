@@ -1,4 +1,5 @@
 # Tela De Login
+- Este manual tem como objetivo auxiliar os usuários na utilização da tela de login do Meu Estoque Fácil. A tela de login permite que os usuários acessem o sistema para gerenciar o estoques.
 - Acesse a tela de login.
 - Insira suas credenciais.
 - No campo "Usuário", digite o nome de usuário da sua conta.
