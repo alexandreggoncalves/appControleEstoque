@@ -89,6 +89,5 @@
 - A tela de estoque pode ser acessada por usuários com as permissões "Gerenciar Estoque" ou "Visualizar Estoque".
 - Acesse a tela de estoque.
 - A tela de estoque pode ser acessada pelo menu principal do sistema.
-- Para fazer isso, clique no menu "Estoque" e depois na opção "Estoque".
 - A tela de estoque será exibida conforme a imagem
 ![WhatsApp Image 2024-07-24 at 01 57 43](https://github.com/user-attachments/assets/25754ddd-4afd-4051-acd3-f68f9d562629)
