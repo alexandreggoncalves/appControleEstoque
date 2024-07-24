@@ -64,4 +64,10 @@
 ![WhatsApp Image 2024-07-24 at 01 56 55](https://github.com/user-attachments/assets/e7d9eadb-6779-4759-876a-38192e64828b)
 
 # Tela de Novo Usuário
+- Este manual tem como objetivo auxiliar os usuários na utilização da tela "Novo Usuário" do Meu Estoque Fácil. A tela "Novo Usuário" permite que os administradores do sistema cadastrem novos usuários no sistema.
+- A tela "Novo Usuário" só pode ser acessada por usuários com a permissão "Gerenciar Usuários".
+- Acesse a tela "Novo Usuário".
+- A tela "Novo Usuário" pode ser acessada pelo menu principal do sistema.
+- Para fazer isso, clique no menu "Usuários" e depois na opção "Novo".
+- A tela "Novo Usuário" será exibida conforme a imagem
 ![WhatsApp Image 2024-07-24 at 01 57 24](https://github.com/user-attachments/assets/2ad94e3e-c7e1-4566-96e4-ec0f6917ae40)
