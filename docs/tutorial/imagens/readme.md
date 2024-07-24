@@ -86,17 +86,17 @@
 ![WhatsApp Image 2024-07-24 at 01 57 24](https://github.com/user-attachments/assets/2ad94e3e-c7e1-4566-96e4-ec0f6917ae40)
 
 - Este manual tem como objetivo auxiliar os usuários na utilização da funcionalidade "Buscar Usuário" do Mou Estoque Fácil. A funcionalidade "Buscar Usuário" permite que os usuários encontrem rapidamente os usuários cadastrados no sistema.
--A funcionalidade "Buscar Usuário" é acessada pela tela principal do sistema:
--Digite o nome ou o ID do usuário que você deseja encontrar.
+- A funcionalidade "Buscar Usuário" é acessada pela tela principal do sistema:
+- Digite o nome ou o ID do usuário que você deseja encontrar.
 - A medida que você digita, o sistema exibirá uma lista de sugestões de usuários.
 - Clique no nome do usuário desejado para visualizar suas informações.
-Pelas telas que possuem a funcionalidade de busca:
-Ao clicar no nome do usuário na lista de sugestões ou após realizar a busca, a tela de informações do usuário será exibida.
-Essa tela contém as seguintes informações:
-Nome completo: O nome completo do usuário.
-Nome de usuário: O nome de usuário utilizado pelo usuário para se conectar ao sistema.
-E-mail: O endereço de e-mail do usuário.
-CPF: O número do CPF do usuário.
-Data de nascimento: A data de nascimento do usuário.
-Perfil: O perfil de acesso do usuário.
+- Pelas telas que possuem a funcionalidade de busca:
+- Ao clicar no nome do usuário na lista de sugestões ou após realizar a busca, a tela de informações do usuário será exibida.
+- Essa tela contém as seguintes informações:
+- O nome completo do usuário.
+-  O nome de usuário utilizado pelo usuário para se conectar ao sistema.
+-  O endereço de e-mail do usuário.
+-  O número do CPF do usuário.
+-  A data de nascimento do usuário.
+-  O perfil de acesso do usuário.
 ![WhatsApp Image 2024-07-24 at 01 57 43](https://github.com/user-attachments/assets/25754ddd-4afd-4051-acd3-f68f9d562629)
