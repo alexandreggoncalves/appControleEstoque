@@ -2,7 +2,7 @@
 
 ### Alterações no projeto após apresentação da 3ª etapa do trabalho
 
-[Diagrama de Classes](https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/diagramas-estaticos/diagrama-de-classes.md){:target="_blank"}
+[Diagrama de Classes](https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/diagramas-estaticos/diagrama-de-classes.md){:target="_blank" rel="noopener"}
 
 <a href="https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/diagramas-dinamicos/diagrama-de-sequencias.md" target="_blank">Diagrama de Sequências</a>
 <a href="https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/modelo-c4/diagrama-de-contexto.md" target="_blank">Diagrama de Contexto</a>
