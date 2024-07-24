@@ -189,3 +189,52 @@
 - Utilize as opções de formatação para destacar pontos importantes (negrito, itálico, sublinhado).
 - Após verificar todas as informações e adicionar a justificativa, clique no botão "SALVAR" para finalizar e salvar a requisição de compra.
 ![WhatsApp Image 2024-07-24 at 02 00 52](https://github.com/user-attachments/assets/d086821e-9b48-4849-b518-b911831b596d)
+
+# Tela de Inserir Produto
+- Este é um manual detalhado para a tela "Inserir Produto" do sistema "Meu Estoque Fácil". Esta tela permite ao usuário inserir novos produtos no sistema, fornecendo detalhes como código, nome, preço, quantidade e fornecedor.
+- A tela possui:
+- Código.
+- Nome do produto.
+- Código de barras.
+- Preço.
+- Quantidade.
+- Busca de fornecedor.
+- Descrição.
+- Insira o código do produto no campo "Código".
+- Insira o nome do produto no campo "Nome do Produto".
+- Insira o código de barras do produto no campo "Código de Barras".
+- Insira o preço do produto no campo "Preço".
+- Insira a quantidade do produto no campo "Quantidade".
+- Digite o nome ou parte do nome do fornecedor no campo de busca "Busca de fornecedor".
+- Clique em "Selecionar" ao lado do fornecedor desejado.
+- Escreva uma descrição detalhada do produto no campo "Descrição".
+- Utilize as opções de formatação para destacar pontos importantes (negrito, itálico, sublinhado).
+- Após preencher todas as informações possíveis e adicionar a descrição, clique no botão correspondente para salvar o produto (este botão não fica visível na imagem, mas geralmente seria algo como "SALVAR" ou "INSERIR").
+![Inserir Produto](https://github.com/user-attachments/assets/05c9773c-8944-4b6f-9434-c6da9545902d)
+
+# Tela de Inclusão de Melhorias
+- Este é um manual detalhado para a tela "Inclusão de melhorias" do "Meu Estoque Fácil". Esta tela permite ao usuário inserir nsugestões de melhorias.
+- A tela possui:
+- Status.
+- Data.
+- Descrição.
+- Resposta.
+- Acesse a seção "Melhorias" na barra de navegação superior.
+- Se desejar incluir uma nova solicitação de melhoria, selecione a opção correspondente.
+- Verifique o status das solicitações para saber se estão em andamento, respondidas, ou pendentes.
+- Use o campo de "Descrição" para detalhar problemas ou sugestões.
+- Acompanhe as respostas e atualizações no campo "Resposta".
+![Inclusão de Melhorias](https://github.com/user-attachments/assets/bf2001a9-b5bf-48cb-ac55-6c7fd6510d11)
+
+# Tela de Salvar Inclusão de Melhorias
+- Este é um manual detalhado para a tela "Salvar Inclusão de melhorias" do "Meu Estoque Fácil". Esta tela permite ao usuário salvar as sugestões de melhorias.
+- A tela possui as seguintes funções:
+- Adição de arquivos.
+- Descrição
+- Tabela de solicitação de melhoria.
+- Acesse a seção "Melhorias" na barra de navegação superior.
+- Preencha o campo de "Descrição" com os detalhes do problema ou sugestão.
+- Utilize as opções de formatação para personalizar o texto conforme necessário.
+- Clique no botão "Salvar" para registrar a solicitação.
+- Na tabela de melhorias, localize a solicitação desejada pelo ID ou breve descrição.
+![Salvar Inclusão de Melhorias](https://github.com/user-attachments/assets/74cdc9f5-e796-4790-b604-2e1d40ec238d)
