@@ -48,11 +48,14 @@ A tela  de Inserir Requisição de Compras satisfaz a história (H9)
  ![WhatsApp Image 2024-07-24 at 02 00 29](https://github.com/user-attachments/assets/3ff9adc8-c98b-4368-8309-44704f6797e5)
 
 A tela Salvar Requisição de Compras satisfaz a história (H9)
+
 ![WhatsApp Image 2024-07-24 at 02 00 52](https://github.com/user-attachments/assets/d086821e-9b48-4849-b518-b911831b596d)
 
 A tela  de Inserir Produto satisfaz a história (H10)
+
 ![Inserir Produto](https://github.com/user-attachments/assets/05c9773c-8944-4b6f-9434-c6da9545902d)
 
+A tela  de Inclusão de Melhorias satisfaz a história (H12)
 ![Inclusão de Melhorias](https://github.com/user-attachments/assets/bf2001a9-b5bf-48cb-ac55-6c7fd6510d11)
 
 ![Salvar Inclusão de Melhorias](https://github.com/user-attachments/assets/74cdc9f5-e796-4790-b604-2e1d40ec238d)
