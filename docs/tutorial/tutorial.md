@@ -104,10 +104,15 @@
 ![WhatsApp Image 2024-07-24 at 01 57 43](https://github.com/user-attachments/assets/25754ddd-4afd-4051-acd3-f68f9d562629)
 
 # Tela Relatório de Entrada e Saída 
-- Este manual tem como objetivo auxiliar os usuários na utilização da tela "Relatório de Entrada e Saída" do Meu Estoque Fácil. A tela "Relatório de Entrada e Saída" permite que os usuários acessem e vizualizem as movimentações de entrada e saída do estoque.
+- Este manual fornece instruções detalhadas sobre como utilizar a tela "Relatório de Entradas e Saídas" no sistema "Meu Estoque Fácil".
+- A tela permite ao usuário gerar relatórios de entradas e saídas de materiais no estoque, aplicando filtros para personalizar os dados exibidos.
 - A tela " Relatório de Entrada e Saída" é exibida conforme a imagem.
-- Os relatórios podem ser filtradasde acordo como dia, semana, mês, ano, entrada ou saída e tipode material.
+- Os relatórios podem ser filtradas de acordo como dia, semana, mês, ano, período específico de intervalo de datas, entrada ou saída e tipode material.
 - Cada material possui um ID.
+- Selecione os filtros desejados (período, tipo de material, tipo de movimento).
+- Preencha os campos "De" e "Até" para o intervalo de datas.
+- Clique no botão "Buscar" para gerar o relatório com base nos filtros aplicados.
+- Após gerar o relatório, clique no ícone de exportação desejado para baixar o relatório.
 - Os relatórios podem ser exportados comp PDF e XLS.
 - O relatório possui seguintes informações:
 - ID do material.
@@ -118,8 +123,13 @@
 ![WhatsApp Image 2024-07-24 at 01 58 17](https://github.com/user-attachments/assets/1c789400-30b3-45c2-870e-cb935c3eb02a)
 
 # Tela Principal
-- Este manual tem como objetivo auxiliar os usuários na utilização da tela "Principala" do Meu Estoque Fácil. A tela "Principal" é a página principal.
+- Este manual tem como objetivo auxiliar os usuários na utilização da tela "Principala" do Meu Estoque Fácil. A tela "Principal" serve como a página inicial do sistema, exibindo notificações importantes para o usuário.
 - A tela "Principal" é exibida conforme a imagem.
+- A tela possui:
+- Barra de Navegação.
+- Notificações.
+- Clique no ícone de sino para visualizar as notificações.
+- Leia as mensagens exibidas.
 - O usuário é direcionado a essa tela após fazer o login.
 ![WhatsApp Image 2024-07-24 at 01 58 50](https://github.com/user-attachments/assets/3227967a-d0a6-4889-87d5-c57609eae24d)
 
@@ -137,3 +147,45 @@
 - Quantidade.
 - Percentual do estoque contabilizado.
 ![WhatsApp Image 2024-07-24 at 01 59 21](https://github.com/user-attachments/assets/d829d9bf-e75f-401b-b5d2-bf578a40b692)
+
+# Tela de Inserir Parecer de Fechamento
+- Este manual fornece instruções detalhadas sobre como utilizar a tela "Inserir Parecer de Fechamento" no sistema "Meu Estoque Fácil".
+- A tela permite ao usuário inserir e salvar um parecer de fechamento com informações como nome, data, status e o texto do parecer.
+- Possui os seguintes campos:
+- Nome.
+- Nome do parecer.
+- Data.
+- Status.
+- Parecer.
+- O campo Nome é preenchido automaticamente com o nome do usuário.
+- Adicionar o nome do parecer no campo de texto.
+- O campo de data será predefinido com a data atual.
+- O campo Status é um menu suspenso para selecionar o status do parecer.
+- Inserir o parecer na àrea de texto com as opções de formatação (negrito, itálico, sublinhado, fonte e tamanho da fonte).
+ ![WhatsApp Image 2024-07-24 at 02 00 02](https://github.com/user-attachments/assets/236ffe0c-5a20-4943-b916-84cf6b6e13ba)
+
+# Tela Inserir Requisição de Compra
+- Este manual fornece instruções detalhadas para a tela "Inserir Requisição de Compra" do sistema "Meu Estoque Fácil".
+- Esta tela permite ao usuário inserir uma nova requisição de compra, selecionando o fornecedor e os produtos desejados.
+- Possui funções para buscar fornecedores e produtos.
+- Digite o nome ou parte do nome do fornecedor no campo de busca "Busca de fornecedor".
+- Clique em "Selecionar" ao lado do fornecedor desejado.
+- Digite o nome ou parte do nome do produto no campo de busca "Busca de produtos".
+- Clique em "Inserir" ao lado do produto desejado para adicioná-lo à lista de produtos selecionados.
+- Após selecionar todos os fornecedores e produtos desejados, clique no botão "SOLICITAR" para enviar a requisição de compra.
+ ![WhatsApp Image 2024-07-24 at 02 00 29](https://github.com/user-attachments/assets/3ff9adc8-c98b-4368-8309-44704f6797e5)
+
+# Tela Salvar Requisição de Compra
+- Este manual detalhado para a tela "Salvar Requisição de Compra" do sistema "Meu Estoque Fácil". A tela permite ao usuário revisar, ajustar e salvar uma requisição de compra com produtos selecionados, definir uma previsão de dados de entrega e adicionar uma justificativa para a requisição.
+- A tela possui:
+- Data Prevista da Entrega.
+- Vizualizacão dos produtos selecionados, seus IDs e quantidades.
+- Justificativa.
+- Botão de salvar.
+- Verifique os dados previstos da entrega. Caso necessário, ajuste os dados conforme a necessidade.
+- Revise uma lista de produtos selecionados.
+- Ajuste as quantidades conforme a necessidade no campo "Quantidade" ao lado de cada produto.
+- Escreva uma justificativa clara e objetiva para a requisição de compra no campo "Justificativa".
+- Utilize as opções de formatação para destacar pontos importantes (negrito, itálico, sublinhado).
+- Após verificar todas as informações e adicionar a justificativa, clique no botão "SALVAR" para finalizar e salvar a requisição de compra.
+![WhatsApp Image 2024-07-24 at 02 00 52](https://github.com/user-attachments/assets/d086821e-9b48-4849-b518-b911831b596d)
