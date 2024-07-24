@@ -46,5 +46,8 @@
 - No formulário de criação de perfil, preencha as seguintes informações:
 - O nome do perfil que você deseja criar.
 - As áreas do sistema que os usuários com esse perfil poderão acessar.
--  Para editar um perfil, clique no ícone de edição ao lado do perfil que você deseja editar.
+-  Para editar um perfil, clique no ícone de edição ao lado do perfil que você deseja editar.  
 ![WhatsApp Image 2024-07-24 at 01 56 00](https://github.com/user-attachments/assets/2d0ef31f-6b83-473e-84bb-89a53b2bc946)
+
+
+![WhatsApp Image 2024-07-24 at 01 56 55](https://github.com/user-attachments/assets/e7d9eadb-6779-4759-876a-38192e64828b)
