@@ -64,9 +64,11 @@ A tela  de Salvar Inclusão de Melhorias satisfaz a história (H12)
 
 ![Salvar Inclusão de Melhorias](https://github.com/user-attachments/assets/74cdc9f5-e796-4790-b604-2e1d40ec238d)
 
-A tela  Relatório de produto satisfaz a história (H11)
+A tela  Buscar Produto satisfaz a história (H10, 17)
 
 ![Buscar Produto](https://github.com/user-attachments/assets/a9342d17-6ef0-44c4-ac7d-cc8572cce084)
+
+A tela  Relatório de Produto satisfaz a história (H11)
 
 ![Relatório de Produto](https://github.com/user-attachments/assets/469ff23f-d6b2-4fe9-9311-ce4b6433730a)
 
