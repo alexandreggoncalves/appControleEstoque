@@ -1,8 +1,9 @@
-Acesse a tela de login;
-Insira suas credenciais;
-No campo "Usuário", digite o nome de usuário da sua conta.
-No campo "Senha", digite a senha da sua conta.
+- Acesse a tela de login;
+- Insira suas credenciais;
+- No campo "Usuário", digite o nome de usuário da sua conta.
+- No campo "Senha", digite a senha da sua conta.
 Clique no botão "ENTRAR":
+- Se as credenciais estiverem corretas, você será direcionado para a tela principal do Meu Estoque Fácil.
 
 ![WhatsApp Image 2024-07-24 at 01 51 53](https://github.com/user-attachments/assets/6180b2d3-d09e-429a-a422-55f609f13c66)
 
