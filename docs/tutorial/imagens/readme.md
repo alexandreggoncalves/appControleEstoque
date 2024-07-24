@@ -55,4 +55,9 @@
 - O nome do perfil.
 - Usuários Vinculados: A quantidade de usuários vinculados a esse perfil.
 - Ação: Links para visualizar, editar ou excluir o perfil.
+- Faça as alterações desejadas nas informações do perfil.
+- Para excluir um perfil, clique no link "Excluir" ao lado do perfil que você deseja excluir.
+- Uma caixa de diálogo de confirmação será exibida.
+- Clique no botão "Sim" para confirmar a exclusão do perfil.
+- O perfil será excluído da lista de perfis.
 ![WhatsApp Image 2024-07-24 at 01 56 55](https://github.com/user-attachments/assets/e7d9eadb-6779-4759-876a-38192e64828b)
