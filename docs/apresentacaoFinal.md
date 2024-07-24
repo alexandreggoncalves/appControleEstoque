@@ -1,4 +1,4 @@
-##Documento de apresentação e entregas do trabalho de Engenharia A - 24/07/2024
+## Documento de apresentação e entregas do trabalho de Engenharia A - 24/07/2024
 
 ### Alterações no projeto após apresentação da 3ª etapa do trabalho 
 [Diagrama de Classes](https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/diagramas-estaticos/diagrama-de-classes.md)
