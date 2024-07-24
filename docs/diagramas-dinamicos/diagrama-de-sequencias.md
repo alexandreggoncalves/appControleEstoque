@@ -1,4 +1,4 @@
-# Diagrama de Sequências - Meu Estoque Fácil
+# Diagramas de Sequência - Meu Estoque Fácil
 
 ## Gerente
 O Gerente inicia o processo fazendo login no sistema, fornecendo seu nome de usuário e senha. O sistema valida essas credenciais consultando o banco de dados. Se as credenciais forem válidas, o Gerente pode navegar para a página de perfis. Na página de perfis, o Gerente insere um novo perfil, especificando o nome do perfil e as áreas de acesso associadas a ele. O sistema valida os dados do perfil novamente consultando o banco de dados. Se os dados do perfil forem inválidos, o sistema retorna uma mensagem de erro informando que os dados são inválidos. Se os dados forem válidos, o sistema salva o novo perfil no banco de dados e retorna uma mensagem de sucesso informando que o perfil foi inserido com sucesso.
