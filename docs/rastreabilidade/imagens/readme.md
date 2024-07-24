@@ -27,7 +27,7 @@ A tela  de Novo Usuário satisfaz a história (H3, H2)
 
 ![WhatsApp Image 2024-07-24 at 01 57 43](https://github.com/user-attachments/assets/25754ddd-4afd-4051-acd3-f68f9d562629)
 
-A tela  de Relatório de Entrada e Saída  satisfaz a história (H5, H11, H16)
+A tela  de Relatório de Entrada e Saída  satisfaz a história (H5, H16)
 
 ![WhatsApp Image 2024-07-24 at 01 58 17](https://github.com/user-attachments/assets/1c789400-30b3-45c2-870e-cb935c3eb02a)
 
@@ -63,6 +63,8 @@ A tela  de Inclusão de Melhorias satisfaz a história (H12)
 A tela  de Salvar Inclusão de Melhorias satisfaz a história (H12)
 
 ![Salvar Inclusão de Melhorias](https://github.com/user-attachments/assets/74cdc9f5-e796-4790-b604-2e1d40ec238d)
+
+A tela  Relatório de produto satisfaz a história (H11)
 
 ![Buscar Produto](https://github.com/user-attachments/assets/a9342d17-6ef0-44c4-ac7d-cc8572cce084)
 
