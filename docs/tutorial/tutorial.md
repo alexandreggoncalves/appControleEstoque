@@ -1,4 +1,4 @@
-#Manual de usabilidade - MEU ESTOQUE FÁCIL versão 1.0
+# Manual de usabilidade - MEU ESTOQUE FÁCIL versão 1.0
 
 # Tela De Login
 - Este manual tem como objetivo auxiliar os usuários na utilização da tela de login do Meu Estoque Fácil. A tela de login permite que os usuários acessem o sistema para gerenciar o estoques.
