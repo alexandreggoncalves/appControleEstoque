@@ -69,5 +69,20 @@
 - Acesse a tela "Novo Usuário".
 - A tela "Novo Usuário" pode ser acessada pelo menu principal do sistema.
 - Para fazer isso, clique no menu "Usuários" e depois na opção "Novo".
-- A tela "Novo Usuário" será exibida conforme a imagem
+- A tela "Novo Usuário" será exibida conforme a imagem.
+- Preencha as informações do usuário:
+- No formulário de criação de usuário, preencha as seguintes informações:
+- O nome completo do usuário.
+- O nome de usuário que o usuário utilizará para se conectar ao sistema.
+- E-mail: O endereço de e-mail do usuário.
+- CPF: O número do CPF do usuário.
+- Data de nascimento: A data de nascimento do usuário.
+- Perfil: O perfil de acesso que o usuário terá.
+- Senha: A senha que o usuário utilizará para se conectar ao sistema.
+- Confirmar senha: Digite novamente a senha do usuário para confirmar.
+- Clique no botão "SALVAR":
+
+Após preencher todas as informações, clique no botão "SALVAR".
+Se as informações estiverem corretas, o novo usuário será cadastrado no sistema e um e-mail de boas-vindas será enviado para o endereço de e-mail informado.
+O novo usuário poderá se conectar ao sistema utilizando o nome de usuário e a senha informados no cadastro.
 ![WhatsApp Image 2024-07-24 at 01 57 24](https://github.com/user-attachments/assets/2ad94e3e-c7e1-4566-96e4-ec0f6917ae40)
