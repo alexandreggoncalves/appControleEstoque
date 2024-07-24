@@ -85,6 +85,7 @@
 - O novo usuário poderá se conectar ao sistema utilizando o nome de usuário e a senha informados no cadastro.
 ![WhatsApp Image 2024-07-24 at 01 57 24](https://github.com/user-attachments/assets/2ad94e3e-c7e1-4566-96e4-ec0f6917ae40)
 
+# Tela de Buscar Usuário
 - Este manual tem como objetivo auxiliar os usuários na utilização da funcionalidade "Buscar Usuário" do Mou Estoque Fácil. A funcionalidade "Buscar Usuário" permite que os usuários encontrem rapidamente os usuários cadastrados no sistema.
 - A funcionalidade "Buscar Usuário" é acessada pela tela principal do sistema:
 - Digite o nome ou o ID do usuário que você deseja encontrar.
