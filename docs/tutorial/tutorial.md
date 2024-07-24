@@ -102,3 +102,27 @@
 -  A data de nascimento do usuário.
 -  O perfil de acesso do usuário.
 ![WhatsApp Image 2024-07-24 at 01 57 43](https://github.com/user-attachments/assets/25754ddd-4afd-4051-acd3-f68f9d562629)
+
+# Tela Relatório de Entrada e Saída 
+- Este manual tem como objetivo auxiliar os usuários na utilização da tela "Relatório de Entrada e Saída" do Meu Estoque Fácil. A tela "Relatório de Entrada e Saída" permite que os usuários acessem e vizualizem as movimentações de entrada e saída do estoque.
+- A tela " Relatório de Entrada e Saída" é exibida conforme a imagem.
+- Os relatórios podem ser filtradasde acordo como dia, semana, mês, ano, entrada ou saída e tipode material.
+- Cada material possui um ID.
+- Os relatórios podem ser exportados comp PDF e XLS.
+- A tela contém as seguintes informações:
+- ID
+- Nome do material
+- Data de movimentação
+- Tipo de movimentação
+- Quantidade.
+![WhatsApp Image 2024-07-24 at 01 58 17](https://github.com/user-attachments/assets/1c789400-30b3-45c2-870e-cb935c3eb02a)
+
+# Tela Principal
+-  Este manual tem como objetivo auxiliar os usuários na utilização da tela "Principala" do Meu Estoque Fácil. A tela "Principal" permite que os usuários acessem e vizualizem as movimentações de entrada e saída do estoque.
+- A tela "Principal" é exibida conforme a imagem.
+- A tela contém as seguintes informações:
+- Perfis.
+- Usuários.
+- Relatórios.
+- Fechamentos
+![WhatsApp Image 2024-07-24 at 01 58 50](https://github.com/user-attachments/assets/3227967a-d0a6-4889-87d5-c57609eae24d)
