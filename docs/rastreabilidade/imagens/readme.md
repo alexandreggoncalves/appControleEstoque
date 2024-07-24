@@ -1,2 +1,2 @@
 Aqui ficam as imagens utilizadas no documento de rastreabilidade.
-https://www.figma.com/proto/99GtbZd7lLTexmqiCGr6yP/meu_estoque_facil?node-id=8-40&starting-point-node-id=121%3A1224
+![](WhatsApp Image 2024-07-24 at 01 51 53](https://github.com/user-attachments/assets/6180b2d3-d09e-429a-a422-55f609f13c66)
