@@ -41,4 +41,9 @@
 - A tela de perfis exibe uma lista de todos os perfis cadastrados no sistema.
 - Para cada perfil, a lista exibe as seguintes informações: Nome do perfi, áreas de acesso.
 - As áreas do sistema que os usuários com esse perfil podem acessar.
+- Para criar um novo perfil, clique no botão "Novo".
+-O formulário de criação de perfil será exibido conforme a imagem
+- No formulário de criação de perfil, preencha as seguintes informações:
+- O nome do perfil que você deseja criar.
+- As áreas do sistema que os usuários com esse perfil poderão acessar.
 ![WhatsApp Image 2024-07-24 at 01 56 00](https://github.com/user-attachments/assets/2d0ef31f-6b83-473e-84bb-89a53b2bc946)
