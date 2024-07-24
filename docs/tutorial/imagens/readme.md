@@ -50,6 +50,7 @@
 ![WhatsApp Image 2024-07-24 at 01 56 00](https://github.com/user-attachments/assets/2d0ef31f-6b83-473e-84bb-89a53b2bc946)
 
 #  Tela de Buscar Perfil
+- Este manual tem como objetivo auxiliar os usuários na utilização da tela de consulta de perfis do Meu Estoque Fácil. A tela de consulta de perfis permite que os usuários visualizem as informações dos perfis cadastrados no sistema.
 - A tela de consulta de perfis exibe uma lista de todos os perfis cadastrados no sistema.
 - Para cada perfil, a lista exibe as seguintes informações.
 - ID: O identificador único do perfil.
