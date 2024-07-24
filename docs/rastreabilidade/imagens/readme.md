@@ -31,6 +31,7 @@ A tela  de Relatório de Entrada e Saída  satisfaz a história (H5, H11, H16)
 
 ![WhatsApp Image 2024-07-24 at 01 58 17](https://github.com/user-attachments/assets/1c789400-30b3-45c2-870e-cb935c3eb02a)
 
+A tela satisfaz a história (H15)
 
 
 ![WhatsApp Image 2024-07-24 at 01 58 50](https://github.com/user-attachments/assets/3227967a-d0a6-4889-87d5-c57609eae24d)
@@ -74,4 +75,9 @@ A tela  de Personalizar Interface satisfaz a história (H8)
 A tela  de Personalizar Relatório satisfaz a história (H13)
 
 ![Personalizar Relatórios](https://github.com/user-attachments/assets/850a3036-683a-4fda-a601-e86f38c7cd97)
+
+A tela  Consultar satisfaz a história (H17)
+
+![Consultar Estoque](https://github.com/user-attachments/assets/731c24fa-7033-4145-9a36-cf66c23aa022)
+
 
