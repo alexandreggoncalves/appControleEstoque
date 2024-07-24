@@ -12,6 +12,7 @@
 ![WhatsApp Image 2024-07-24 at 01 51 53](https://github.com/user-attachments/assets/6180b2d3-d09e-429a-a422-55f609f13c66)
 
 # Tela Esqueci Minha Senha 
+- Este manual tem como objetivo auxiliar os usuários na utilização da tela "Esqueci Minha Senha" do Mou Estoque Fácil. A tela "Esqueci Minha Senha" permite que os usuários recuperem suas senhas caso as tenham esquecido.
 - A tela "Esqueci Minha Senha" é exibida conforme a imagem
 - Insira seu nome de usuário.
 - No campo "Usuário", digite o nome de usuário da sua conta.
