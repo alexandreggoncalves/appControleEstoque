@@ -27,7 +27,7 @@ A tela  de Novo Usuário satisfaz a história (H3, H2)
 
 ![WhatsApp Image 2024-07-24 at 01 57 43](https://github.com/user-attachments/assets/25754ddd-4afd-4051-acd3-f68f9d562629)
 
-A tela  de Relatório de Entrada e Saída  satisfaz a história (H5, h11)
+A tela  de Relatório de Entrada e Saída  satisfaz a história (H5, H11, H16)
 
 ![WhatsApp Image 2024-07-24 at 01 58 17](https://github.com/user-attachments/assets/1c789400-30b3-45c2-870e-cb935c3eb02a)
 
