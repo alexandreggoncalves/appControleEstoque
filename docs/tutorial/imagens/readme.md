@@ -74,7 +74,6 @@
 - No formulário de criação de usuário, preencha as seguintes informações:
 - O nome completo do usuário.
 - O nome de usuário que o usuário utilizará para se conectar ao sistema.
-- E-mail: O endereço de e-mail do usuário.
 - CPF: O número do CPF do usuário.
 - Data de nascimento: A data de nascimento do usuário.
 - Perfil: O perfil de acesso que o usuário terá.
