@@ -67,6 +67,11 @@ A tela  de SalvarInclusão de Melhorias satisfaz a história (H12)
 
 ![Relatório de Produto](https://github.com/user-attachments/assets/469ff23f-d6b2-4fe9-9311-ce4b6433730a)
 
-A tela  de Personalizar Interface satisfaz a história (H8,h13)
+A tela  de Personalizar Interface satisfaz a história (H8)
 
 ![Personalização de Interface](https://github.com/user-attachments/assets/b76267e3-d21f-45e8-8da6-cc65c28521bd)
+
+A tela  de Personalizar Relatório satisfaz a história (H13)
+
+![Personalizar Relatórios](https://github.com/user-attachments/assets/850a3036-683a-4fda-a601-e86f38c7cd97)
+
