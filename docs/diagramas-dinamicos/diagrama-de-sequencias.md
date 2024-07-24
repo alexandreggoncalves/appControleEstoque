@@ -24,7 +24,7 @@ O Operador de Fechamento faz login no sistema com nome de usuário e senha. O si
 
 
 ## Operador de Vendas
-O OperadorVendas realiza o login no sistema com nome de usuário e senha. O sistema valida as credenciais junto ao banco de dados e, se válidas, permite o acesso. O operador navega para a seção de consulta de estoque e consulta um produto fornecendo nome e código. O sistema busca as informações no banco de dados e exibe os resultados ao operador.
+O Operador de Vendas realiza o login no sistema com nome de usuário e senha. O sistema valida as credenciais junto ao banco de dados e, se válidas, permite o acesso. O operador navega para a seção de consulta de estoque e consulta um produto fornecendo nome e código. O sistema busca as informações no banco de dados e exibe os resultados ao operador.
 
 ![alt Operador de Vendas](https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/diagramas-dinamicos/diagrama_sequencia_operador_de_vendas.jpeg)
 
