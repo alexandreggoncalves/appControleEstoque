@@ -85,7 +85,7 @@
 - O novo usuário poderá se conectar ao sistema utilizando o nome de usuário e a senha informados no cadastro.
 ![WhatsApp Image 2024-07-24 at 01 57 24](https://github.com/user-attachments/assets/2ad94e3e-c7e1-4566-96e4-ec0f6917ae40)
 
-- Este manual tem como objetivo auxiliar os usuários na utilização da tela de estoque do Mou Estoque Fácil. A tela de estoque permite que os usuários gerenciem o estoque de produtos da empresa.
+- Este manual tem como objetivo auxiliar os usuários na utilização da tela de estoque do Meu Estoque Fácil. A tela de estoque permite que os usuários gerenciem o estoque de produtos da empresa.
 - A tela de estoque pode ser acessada por usuários com as permissões "Gerenciar Estoque" ou "Visualizar Estoque".
 - Acesse a tela de estoque.
 - A tela de estoque pode ser acessada pelo menu principal do sistema.
