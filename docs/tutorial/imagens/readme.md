@@ -23,6 +23,7 @@ Clique no botão "ENTRAR":
 - Certifique-se de digitar a senha atual corretamente.
 - No campo "Nova senha", digite sua nova senha.
 - No campo "Confirmar senha", digite sua nova senha novamente.
+- Sua nova senha deve ter no mínimo 8 caracteres e conter pelo menos uma letra maiúscula, uma letra minúscula, um número e um caracter especial.
 - Certifique-se de que a senha confirmada seja exatamente igual à nova senha.
 - Após inserir todas as informações, clique no botão "SALVAR".
 - Se as informações estiverem corretas, sua senha será alterada com sucesso.
