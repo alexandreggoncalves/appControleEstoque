@@ -4,6 +4,9 @@
 - No campo "Senha", digite a senha da sua conta.
 Clique no botão "ENTRAR":
 - Se as credenciais estiverem corretas, você será direcionado para a tela principal do Meu Estoque Fácil.
+- Se você esqueceu sua senha, clique no link "Esqueci Minha Senha".
+- Você será direcionado para uma página para recuperar sua senha.
+- Siga as instruções na tela para recuperar sua senha.
 
 ![WhatsApp Image 2024-07-24 at 01 51 53](https://github.com/user-attachments/assets/6180b2d3-d09e-429a-a422-55f609f13c66)
 
