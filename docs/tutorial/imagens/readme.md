@@ -42,7 +42,7 @@
 - Para cada perfil, a lista exibe as seguintes informações: Nome do perfi, áreas de acesso.
 - As áreas do sistema que os usuários com esse perfil podem acessar.
 - Para criar um novo perfil, clique no botão "Novo".
--O formulário de criação de perfil será exibido conforme a imagem
+- O formulário de criação de perfil será exibido conforme a imagem
 - No formulário de criação de perfil, preencha as seguintes informações:
 - O nome do perfil que você deseja criar.
 - As áreas do sistema que os usuários com esse perfil poderão acessar.
