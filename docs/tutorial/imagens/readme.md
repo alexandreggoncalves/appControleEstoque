@@ -54,4 +54,5 @@
 - ID: O identificador único do perfil.
 - O nome do perfil.
 - Usuários Vinculados: A quantidade de usuários vinculados a esse perfil.
+- Ação: Links para visualizar, editar ou excluir o perfil.
 ![WhatsApp Image 2024-07-24 at 01 56 55](https://github.com/user-attachments/assets/e7d9eadb-6779-4759-876a-38192e64828b)
