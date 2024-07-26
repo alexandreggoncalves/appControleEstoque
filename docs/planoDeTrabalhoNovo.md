@@ -103,55 +103,62 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 
  - 2.4 - Necessidades Tecnológicas e Infraestrutura de TI.
   
-      Para o pleno desenvolvimento das atividades previstas da empresa e operacionalidade do sistema de controle de estoque, faz-se necessário a viabilidade dos seguintes recursos e tecnologias:
+  Para o pleno desenvolvimento das atividades previstas da empresa e operacionalidade do sistema de controle de estoque, faz-se necessário a viabilidade dos seguintes recursos e tecnologias:
 
-      ## Sistema e Banco de Dados
-        * O Sistema de Controle de Estoque e seu Banco de Dados serão hospedados em servidor de nuvem, sendo acessado e mantido via Internet.
-
-     ## Setor de vendas:
-        * 04 desktops, estações de venda;
-        * 04 impressoras térmicas;
-        * 01 impressora Multifuncional;
-        * 04 leitores de código de barras;
-        * 04 NoBreak de 600VA.
-
-      ## Setor de pagamentos (caixa):
-        * 01 desktop;
-        * 01 impressora fiscal;
-        * 02 PDV´s (terminais de venda);
-        * 01 impressora jato de tinta;
-        * 01 NoBreak de 600VA.
+  ## Sistema e Banco de Dados
   
-      ## Setor de Expedição:
-        * 01 desktop;
-        * 01 impressora jato de tinta;
-        * 01 impressora térmica;
-        * 01 Televisor de no mínimo 55” para monitoramento dos pedidos;
-        * 01 NoBreak de 600VA.
+  * O Sistema de Controle de Estoque e seu Banco de Dados serão hospedados em servidor de nuvem, sendo acessado e mantido via Internet.
 
-      ## Setor de Almoxarifado (estoque):
-        * 02 desktop;
-        * 02 impressoras térmicas;
-        * 01 impressora multifuncional;
-        * 04 Terminais PDA com sistema Android;
-        * 02 NoBreak de 600VA.
+  ## Setor de vendas:
   
-      ## Infra estrutura de Rede:
-        * 01 Servidor para gerenciar o DHCP e acesso à rede de computadores, bem como possuir Firewall, em um sistema operacional Linux;
-        * 01 link de Internet dedicada para acesso a intenet;
-        * 02 Ethernet Switch Gigabit, 24 portas;
-        * Pontos de rede Wi-Fi, 2.4Ghz, 01 por setor mais 02 no setor de estoque
-        * Aquisição de um NoBreak de 10KVA.
-        * O cabeamento de rede será feio por cabos de par trançado, de 8 vias de categoria CAT-6;
-        * Os servidores, desktops e impressoras multifuncionais deverão ser conectadas em rede por cabo físico.
+  * 04 desktops, estações de venda;
+  * 04 impressoras térmicas;
+  * 01 impressora Multifuncional;
+  * 04 leitores de código de barras;
+  * 04 NoBreak de 600VA.
 
-       ## Infra estrutura de Segurança:
-        * 01 DVR para 48 câmeras;
-        * 02 HD de 2TB de espaço;
-        * 01 NoBreak 3200Va;
-        * 40 cameras modelo Full HD;
-        * 08 câmeras modelo Full HD 60;
-        * 03 Fonte eletrônica 12v para 16 câmeras cada.
+  ## Setor de pagamentos (caixa):
+  
+  * 01 desktop;
+  * 01 impressora fiscal;
+  * 02 PDV´s (terminais de venda);
+  * 01 impressora jato de tinta;
+  * 01 NoBreak de 600VA.
+  
+  ## Setor de Expedição:
+  
+  * 01 desktop;
+  * 01 impressora jato de tinta;
+  * 01 impressora térmica;
+  * 01 Televisor de no mínimo 55” para monitoramento dos pedidos;
+  * 01 NoBreak de 600VA.
+
+  ## Setor de Almoxarifado (estoque):
+  
+  * 02 desktop;
+  * 02 impressoras térmicas;
+  * 01 impressora multifuncional;
+  * 04 Terminais PDA com sistema Android;
+  * 02 NoBreak de 600VA.
+  
+  ## Infra estrutura de Rede:
+  
+  * 01 Servidor para gerenciar o DHCP e acesso à rede de computadores, bem como possuir Firewall, em um sistema operacional Linux;
+  * 01 link de Internet dedicada para acesso a intenet;
+  * 02 Ethernet Switch Gigabit, 24 portas;
+  * Pontos de rede Wi-Fi, 2.4Ghz, 01 por setor mais 02 no setor de estoque
+  * Aquisição de um NoBreak de 10KVA.
+  * O cabeamento de rede será feio por cabos de par trançado, de 8 vias de categoria CAT-6;
+  * Os servidores, desktops e impressoras multifuncionais deverão ser conectadas em rede por cabo físico.
+
+  ## Infra estrutura de Segurança:
+  
+  * 01 DVR para 48 câmeras;
+  * 02 HD de 2TB de espaço;
+  * 01 NoBreak 3200Va;
+  * 40 cameras modelo Full HD;
+  * 08 câmeras modelo Full HD 60;
+  * 03 Fonte eletrônica 12v para 16 câmeras cada.
 
   - 2.5 Características Inovadoras do Projeto
     * aplicação WEB com tecnologias atuais;
@@ -199,16 +206,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
     Fase IV: Prototipagem e Refinamento - Novembro
     Fase V: Encerramento - Dezembro
 
-  - 3.4 Entregas de cada fase
-
-    | Fase | Mês | Entregável |
-    | --- | --- | --- |
-    | I - Especificação | Junho | - Plano de Trabalho<br> - Definição de Personas<br> - Criação de User Story<br> - Especificação dos requisitos do Sistema |
-    | II - Inspeção | | |
-    | III - Prototipagem e Refinamento | | |
-    | IV - Encerramento | | |
-
-- 3.5 Controle de Mudanças
+- 3.4 Controle de Mudanças
 
 O monitoramento e controle do escopo do projeto serão realizados a partir das seguintes diretrizes:
 
