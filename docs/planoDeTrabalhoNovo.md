@@ -105,11 +105,11 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
   
     Para o pleno desenvolvimento das atividades previstas da empresa e operacionalidade do sistema de controle de estoque, faz-se necessário a viabilidade dos seguintes recursos e tecnologias:
 
-    ## Sistema e Banco de Dados
+    ### Sistema e Banco de Dados
   
     * O Sistema de Controle de Estoque e seu Banco de Dados serão hospedados em servidor de nuvem, sendo acessado e mantido via Internet.
 
-    ## Setor de vendas:
+    ### Setor de vendas:
   
     * 04 desktops, estações de venda;
     * 04 impressoras térmicas;
@@ -117,7 +117,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
     * 04 leitores de código de barras;
     * 04 NoBreak de 600VA.
 
-    ## Setor de pagamentos (caixa):
+    ### Setor de pagamentos (caixa):
   
     * 01 desktop;
     * 01 impressora fiscal;
@@ -133,7 +133,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
     * 01 Televisor de no mínimo 55” para monitoramento dos pedidos;
     * 01 NoBreak de 600VA.
 
-    ## Setor de Almoxarifado (estoque):
+    ### Setor de Almoxarifado (estoque):
   
     * 02 desktop;
     * 02 impressoras térmicas;
@@ -141,7 +141,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
     * 04 Terminais PDA com sistema Android;
     * 02 NoBreak de 600VA.
   
-    ## Infra estrutura de Rede:
+    ### Infra estrutura de Rede:
   
     * 01 Servidor para gerenciar o DHCP e acesso à rede de computadores, bem como possuir Firewall, em um sistema operacional Linux;
     * 01 link de Internet dedicada para acesso a intenet;
@@ -151,7 +151,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
     * O cabeamento de rede será feio por cabos de par trançado, de 8 vias de categoria CAT-6;
     * Os servidores, desktops e impressoras multifuncionais deverão ser conectadas em rede por cabo físico.
 
-    ## Infra estrutura de Segurança:
+    ### Infra estrutura de Segurança:
   
     * 01 DVR para 48 câmeras;
     * 02 HD de 2TB de espaço;
