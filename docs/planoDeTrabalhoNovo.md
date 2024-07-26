@@ -157,7 +157,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
     * 02 HD de 2TB de espaço;
     * 01 NoBreak 3200Va;
     * 40 cameras modelo Full HD;
-    * 08 câmeras modelo Full HD 60;
+    * 08 câmeras modelo Full HD 360 graus;
     * 03 Fonte eletrônica 12v para 16 câmeras cada.
 
   - 2.5 Características Inovadoras do Projeto
