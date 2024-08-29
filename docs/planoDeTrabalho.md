@@ -139,12 +139,12 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
 | -------------| ---------------|------------------ |
 | Product Owner (PO) |Prof. Dr. Andrey Rodrigues  | Responsável pelo desenvolvimento, traduz a voz do cliente em funcionalidades tangíveis. Defensor incansável, prioriza as necessidades, guiando a equipe à excelência do produto final.|
 | Scrum Master (SM) |Alexandre Gomes Gonçalves  |  Assume o papel crucial de líder e facilitador, guiando a equipe rumo ao sucesso do projeto. Ele garante a aplicação dos princípios e valores do Scrum, promovendo a colaboração, a auto-organização e a entrega de valor para o cliente.|
-|Time Squad| Ester Castro, Erikson Amaral, Luciele I. Menezes, Silvía Letícia  |Atuam na projeção, desenvolvimento, testes e na implementação das funcionalidades do sistema.|
+|Time Squad| Ester Castro, Erikson, Luciele I. Menezes, |Atuam na projeção, desenvolvimento, testes e na implementação das funcionalidades do sistema.|
 | Designer UX | Alexandre Gomes Gonçalves  |  Deverá ter a função de criar elementos gráficos, como ícones, botões, layouts e tipografia, que tornam a interface esteticamente agradável e atraente.|
 | Suporte Técnico | Luciele I. Menezes  |  Atua como a linha de frente na resolução de problemas e dúvidas relacionadas a produtos, serviços ou sistemas. Suporte na construção do  Plano de Trabalho e no levantamento dos requisitos e criação de user story|
 | Desenvolvedores de FRONTEND/BACKEND | Ester Castro de Oliveira |  Encarregada pela criação e implementação da interface de um site ou aplicativo, com foco na experiência do usuário. É responsável também por planejar, programar, testar e manter a estrutura de códigos que faz a interface entre um site, o servidor e o banco de dados. | 
-| Implantação e Testes | Sílvia Letícia | Responsável por identificar erros, falhas ou comportamentos inesperados no software durante os testes. |
-| Suporte Técnico | Erikson Amaral | Responsável por diagnosticar e resolver problemas técnicos e oferecer suporte remoto ou presencial aos usuários, além de documentar e reportar incidentes e soluções. |
+| Implantação e Testes | Alexandre Gomes Gonçalves | Responsável por identificar erros, falhas ou comportamentos inesperados no software durante os testes. |
+| Suporte Técnico | Ester Castro | Responsável por diagnosticar e resolver problemas técnicos e oferecer suporte remoto ou presencial aos usuários, além de documentar e reportar incidentes e soluções. |
 
 - 3.3 Fases, Atividades e Cronograma
 
