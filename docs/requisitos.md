@@ -61,3 +61,24 @@
 | Conflitos entre permissões de gerente e supervisor                       | Médio       | Média             | Documentar claramente a hierarquia de permissões e aplicar testes de usabilidade com os usuários. |
 | Falta de rastreabilidade nas alterações de usuários e movimentações      | Alto        | Alta              | Implementar auditoria detalhada (logs) para todas as ações críticas no sistema.                   |
 
+
+
+**ID:** RF-01  
+**Título:** Inserir novo usuário  
+**Descrição:**  
+O sistema deve permitir que um gerente insira novos usuários por meio de um formulário com campos obrigatórios.
+
+**Critérios de Aceitação:**
+- O formulário deve conter os campos: nome, e-mail, função, senha.
+- Não deve permitir duplicidade de e-mail.
+- O sistema deve exibir mensagem de sucesso após o cadastro.
+
+**Requisitos Relacionados:** [ex: RF-02 – Editar usuário]
+
+**Prioridade:** Alta  
+**Volatilidade:** Baixa  
+**Criticidade:** Alta
+
+**Dependências:** Requer autenticação e permissões de gerente.
+
+
