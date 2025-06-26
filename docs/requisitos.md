@@ -49,3 +49,15 @@
       * Consultar o sistema de estoque para realizar a venda de produtos
       * Solicitar produtos para o balcão de vendas
       * Solicitar produtos para o balcão físico da loja
+   
+  | **Risco**                                                                | **Impacto** | **Probabilidade** | **Plano de Ação**                                                                                 |
+| ------------------------------------------------------------------------ | ----------- | ----------------- | ------------------------------------------------------------------------------------------------- |
+| Exclusão acidental de usuários ou perda de credenciais                   | Alto        | Média             | Implementar confirmação em duas etapas para exclusão e backup automático das credenciais.         |
+| Geração de relatórios com dados inconsistentes ou desatualizados         | Alto        | Média             | Garantir sincronização em tempo real com o banco de dados e aplicar validações antes da emissão.  |
+| Falta de permissão adequada para operador supervisionar movimentações    | Médio       | Alta              | Implementar controle de permissões por função e registrar logs de acesso e operação.              |
+| Ambiguidade sobre quem realiza a supervisão de movimentação              | Médio       | Média             | Especificar claramente no sistema quem tem papel de supervisão (Gerente ou Operador).             |
+| Validação incorreta do fechamento anual por falta de critérios definidos | Alto        | Média             | Definir critérios claros de validação e implementar checklist obrigatório no sistema.             |
+| Esquecimento do fechamento anual e impacto na continuidade do sistema    | Alto        | Baixa             | Programar alertas automáticos e bloqueios parciais no sistema após a data limite.                 |
+| Conflitos entre permissões de gerente e supervisor                       | Médio       | Média             | Documentar claramente a hierarquia de permissões e aplicar testes de usabilidade com os usuários. |
+| Falta de rastreabilidade nas alterações de usuários e movimentações      | Alto        | Alta              | Implementar auditoria detalhada (logs) para todas as ações críticas no sistema.                   |
+
