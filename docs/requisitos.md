@@ -82,3 +82,19 @@ O sistema deve permitir que um gerente insira novos usuários por meio de um for
 **Dependências:** Requer autenticação e permissões de gerente.
 
 
+BANCO DE DADOS
+
+| **Categoria**         | **Especificação**                                                                              |
+| --------------------- | ---------------------------------------------------------------------------------------------- |
+| **Desempenho**        | O banco de dados deve responder a consultas simples em no máximo 2 segundos.                   |
+| **Confiabilidade**    | Deve manter a integridade dos dados mesmo em caso de falha do sistema ou queda de energia.     |
+| **Segurança**         | Os dados sensíveis (ex.: senhas) devem ser armazenados usando criptografia hash (ex.: bcrypt). |
+|                       | Deve haver controle de acesso baseado em permissões e logs de auditoria.                       |
+| **Escalabilidade**    | O banco deve permitir crescimento do volume de dados sem perda significativa de desempenho.    |
+| **Manutenibilidade**  | Deve permitir backup e restauração sem interrupções no serviço, com ferramentas automatizadas. |
+| **Integridade**       | Chaves estrangeiras devem ser usadas para garantir relacionamentos corretos entre tabelas.     |
+| **Disponibilidade**   | O banco deve estar disponível no mínimo 99% do tempo durante o horário comercial.              |
+| **Portabilidade**     | O banco deve ser compatível com sistemas SQL como PostgreSQL e MySQL.                          |
+| **Auditoria**         | Todas as alterações em dados críticos (usuários, movimentações) devem ser registradas em log.  |
+| **Retenção de Dados** | Dados de movimentações devem ser mantidos por no mínimo 5 anos antes de possível arquivamento. |
+| **Consistência**      | Transações devem seguir o modelo ACID (Atomicidade, Consistência, Isolamento e Durabilidade).  |
